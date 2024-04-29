@@ -10,7 +10,8 @@
     "postinstall": "nuxt prepare",
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
-    "format": "prettier --write ."
+    "format": "prettier --write .",
+    "co": "sui-mono commit"
   },
   "dependencies": {
     "@fontsource-variable/comfortaa": "^5.0.20",
@@ -23,9 +24,10 @@
     "@nuxt/eslint": "^0.3.10",
     "@nuxtjs/eslint-config-typescript": "^12.1.0",
     "@nuxtjs/tailwindcss": "^6.12.0",
+    "@s-ui/mono": "^2.45.0",
     "eslint": "^9.1.1",
     "prettier": "^3.2.5",
     "typescript": "^5.4.5",
-    "vue-tsc": "^1"
+    "vue-tsc": "^1.8.22"
   }
 }
