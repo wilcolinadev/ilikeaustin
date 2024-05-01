@@ -21,6 +21,9 @@ module.exports = {
         white: '#F5F6F7',
         tomato: '#F56449',
       },
+      backgroundImage: {
+        'hero-pattern': "url('assets/images/hero.svg')",
+      },
     },
   },
   plugins: [],

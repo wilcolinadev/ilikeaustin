@@ -26,6 +26,7 @@
 
 body {
   font-family: 'Raleway Variable', sans-serif;
+  color: #fff;
 }
 
 h1,
@@ -35,4 +36,5 @@ h4,
 h5,
 h6 {
   font-family: 'Comfortaa Variable', system-ui;
+  color: #fff;
 }
