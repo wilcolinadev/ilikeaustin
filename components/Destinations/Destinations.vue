@@ -5,21 +5,20 @@
       :key="index"
       class="flex justify-center flex-col gap-1"
     >
-      <img
-        :src="item.imageUrl"
-        :alt="item.alt"
-        class="w-15 h-15 rounded-full"
-        :data-tooltip-target="'tooltip-' + index"
-      />
-      <figurecaption class="w-15 leading-5 text-sm">
+      <fwb-avatar :img="item.imageUrl" rounded />
+      <figcaption class="w-15 leading-5 text-sm">
         {{ item.caption }}
-      </figurecaption>
+      </figcaption>
     </figure>
   </div>
 </template>
 
 <script>
+import { FwbAvatar } from 'flowbite-vue'
 export default {
+  components: {
+    FwbAvatar,
+  },
   data() {
     return {
       items: [

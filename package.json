@@ -16,6 +16,8 @@
   "dependencies": {
     "@fontsource-variable/comfortaa": "^5.0.20",
     "@fontsource-variable/raleway": "^5.0.19",
+    "flowbite": "^2.3.0",
+    "flowbite-vue": "^0.1.4",
     "nuxt": "^3.11.2",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
