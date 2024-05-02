@@ -2,11 +2,19 @@
 import HomeHeader from '@/components/Header/HomeHeader.vue'
 import SearchInput from '@/components/SearchInput/SearchInput.vue'
 import Destinations from '@/components/Destinations/Destinations.vue'
+import Chip from '@/components/Chip/Chip.vue'
+const chips = ['Default', 'Dark', 'Red', 'Green', 'Yellow', 'Indigo', 'Purple']
 export default {
   components: {
     HomeHeader,
     SearchInput,
     Destinations,
+    Chip,
+  },
+  data() {
+    return {
+      chips: chips,
+    }
   },
 }
 </script>
@@ -23,8 +31,14 @@ export default {
             Top Destinations for your next adventure
           </h2>
         </div>
-
         <HomeHeader />
+        <div class="flex overflow-hidden" data-carousel="slide">
+          <div v-for="chip in chips" :key="chip">
+            <Chip :chip="chip" />
+          </div>
+        </div>
+
+        <Carousel />
 
         <SearchInput />
         <Destinations />
