@@ -2,8 +2,9 @@
   <li>
     <a
       href="#"
-      class="block py-2 px-3 text-blue-700 bg-transparent rounded md:bg-transparent md:text-blue-700 md:p-0 md:dark:text-blue-500 dark:bg-blue-600 md:dark:bg-transparent"
+      class="block py-2 px-3 bg-transparent rounded"
       aria-current="page"
+      :class="colorclass"
     >
       {{ title }}
     </a>
@@ -11,14 +12,22 @@
 </template>
 
 <script>
-
 export default {
-  name: 'ListItem', // Corrected the option to 'name'
+  name: 'ListItem',
   props: {
     title: {
       type: String,
-      default: 'Hello', // Corrected the default value
+      default: 'Prop Missing', // Corrected the default value
     },
+    type: {
+      type: Boolean,
+      default: false,
+    },
+  },
+  data() {
+    return {
+      colorclass: this.type ? 'text-primary' : 'text-white',
+    }
   },
 }
 </script>

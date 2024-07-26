@@ -3,7 +3,7 @@
     <figure
       v-for="(item, index) in items"
       :key="index"
-      class="flex justify-center flex-col gap-1"
+      class="flex justify-center flex-col gap-1 margin-auto items-center"
     >
       <fwb-avatar :img="item.imageUrl" rounded />
       <figcaption class="w-15 leading-5 text-sm">
