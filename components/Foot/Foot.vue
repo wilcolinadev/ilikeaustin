@@ -5,17 +5,17 @@
     <div
       class="w-full mx-auto max-w-screen-xl p-4 md:flex md:items-center md:justify-between"
     >
-      <span class="text-sm text-gray-500 sm:text-center"
+      <span class="text-sm text-primary text-center block"
         >©2024 For All Austin Visitors with Love ❤️
       </span>
       <ul
-        class="flex flex-wrap items-center mt-3 text-sm font-medium text-gray-500 dark:text-gray-400 sm:mt-0"
+        class="flex flex-col md:flex-row flex-wrap items-center mt-3 text-sm font-medium sm:mt-0"
       >
-        <ListItem title="Things to do" />
-        <ListItem title="Places to Stay" />
-        <ListItem title="Where to eat and Drink" />
-        <ListItem title="Events" />
-        <ListItem title="Contact" />
+        <ListItem title="Things to do" type="{{ false }}" />
+        <ListItem title="Places to Stay" type="{{ false }}" />
+        <ListItem title="Where to eat and Drink" type="{{ false }}" />
+        <ListItem title="Events" type="{{ false }}" />
+        <ListItem title="Contact" type="{{ false }}" />
       </ul>
     </div>
   </footer>

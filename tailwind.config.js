@@ -23,6 +23,10 @@ module.exports = {
         white: '#F5F6F7',
         tomato: '#F56449',
       },
+      backgroundImage: {
+        'hero-pattern':
+          "linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url('https://res.cloudinary.com/djf9jqpml/image/upload/v1722023738/Austin/mitchell-kmetz-ztVcGTSD8xw-unsplash_xusxks.jpg')",
+      },
     },
   },
   plugins: [require('flowbite/plugin')],
