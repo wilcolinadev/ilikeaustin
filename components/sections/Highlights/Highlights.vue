@@ -22,7 +22,7 @@ export default {
         <HighlightsTab title="Hot events" />
       </ul>
       <div
-        class="bg-gray-50 text-medium text-gray-500 rounded-lg w-full md:p-6"
+        class="bg-tree text-medium text-gray-500 rounded-lg w-full p-4 md:p-6"
       >
         <HighlightsMain />
       </div>

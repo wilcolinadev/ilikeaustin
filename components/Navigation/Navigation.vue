@@ -1,12 +1,9 @@
 <template id="Navigation">
-  <nav class="bg-primary sticky w-full z-20 top-0 start-0">
+  <nav class="bg-primary w-full top-0 start-0 z-40 relative">
     <div
-      class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4"
+      class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 z-40"
     >
-      <a
-        href="https://flowbite.com/"
-        class="flex items-center space-x-3 rtl:space-x-reverse"
-      >
+      <a href="#" class="flex items-center space-x-3 rtl:space-x-reverse">
         <span
           class="self-center text-2xl font-semibold whitespace-nowrap text-white"
           >Austin TX</span
@@ -22,9 +19,10 @@
         <button
           data-collapse-toggle="navbar-sticky"
           type="button"
-          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-gray-500 rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200 dark:text-gray-400 dark:hover:bg-gray-700 dark:focus:ring-gray-600"
+          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white hover:text-primary rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
           aria-controls="navbar-sticky"
           aria-expanded="false"
+          @click="toggleHamburgerMenu"
         >
           <span class="sr-only">Open main menu</span>
           <svg
@@ -58,15 +56,68 @@
         </ul>
       </div>
     </div>
+    <HamburgerMenu
+      v-if="isHamburgerMenuOpen"
+      :menu="sampleMenu"
+      @close="toggleHamburgerMenu"
+    />
   </nav>
+  <ModalBackdrop v-if="isHamburgerMenuOpen" @close="toggleHamburgerMenu" />
 </template>
 
 <script>
 import ListItem from '@/components/Navigation/ListItem.vue'
+import HamburgerMenu from '@/components/Navigation/HamburgerMenu.vue'
+import ModalBackdrop from '@/components/ModalBackdrop.vue'
+const sampleMenu = [
+  {
+    title: 'Home ',
+    link: '#',
+  },
+  {
+    title: 'Things to do ',
+    link: '#',
+  },
+  {
+    title: 'Places to stay ',
+    link: '#',
+  },
+  {
+    title: 'Where to eat and drink ',
+    link: '#',
+  },
+  {
+    title: 'Events ',
+    link: '#',
+  },
+  {
+    title: 'Contact ',
+    link: '#',
+  },
+]
 export default {
   name: 'Navigation',
   components: {
     ListItem,
+    HamburgerMenu,
+    ModalBackdrop,
+  },
+  data() {
+    return {
+      isHamburgerMenuOpen: false,
+      sampleMenu,
+    }
+  },
+  methods: {
+    toggleHamburgerMenu() {
+      this.isHamburgerMenuOpen = !this.isHamburgerMenuOpen
+      const body = document.querySelector('body')
+      if (this.isHamburgerMenuOpen) {
+        body.classList.add('overflow-hidden')
+      } else {
+        body.classList.remove('overflow-hidden')
+      }
+    },
   },
 }
 </script>

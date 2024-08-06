@@ -15,7 +15,7 @@ export default {
   <li>
     <a
       href="#"
-      class="inline-flex items-center my-1 px-4 py-3 text-primary rounded-lg w-full hover:bg-secondary bg-gray-50"
+      class="inline-flex items-center my-1 px-4 py-3 text-primary rounded-lg w-full border-2 border-primary hover:border-tree transition-all"
       aria-current="page"
     >
       <svg

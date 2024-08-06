@@ -26,6 +26,7 @@ export default {
         img="https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg"
       />
       <GiantCard
+        color="bg-tree"
         title="Places to stay"
         description="Austin offers places to stay that have just as much personality as the city itself. So no matter where you spend the night after a day in the Live Music Capital of the World®, you’re in for an authentic Austin experience."
         img="https://res.cloudinary.com/djf9jqpml/image/upload/v1722716734/Austin/jeremy-doddridge-1jEWc28GxVs-unsplash_qcxaqz.jpg"

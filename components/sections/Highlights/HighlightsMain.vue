@@ -11,7 +11,7 @@ export default {
 </script>
 
 <template id="HighlightsMain">
-  <h3 class="text-lg font-bold text-gray-900 mb-4">Explore Trending</h3>
+  <h2 class="text-lg font-bold text-white mb-4">Explore Trending</h2>
 
   <!-- Desktop Version will have one larger column and Two smaller columns -->
   <div class="grid md:grid-cols-4 gap-5">

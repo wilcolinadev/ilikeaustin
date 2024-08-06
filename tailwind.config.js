@@ -20,8 +20,9 @@ module.exports = {
         primary: '#124682',
         secondary: '#FFBE43',
         tertiary: '#2D6FB8',
+        quaternary: '#F0A926',
         white: '#F5F6F7',
-        tomato: '#F56449',
+        tree: '#169873',
       },
       backgroundImage: {
         'hero-pattern':

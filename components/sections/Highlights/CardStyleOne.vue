@@ -1,5 +1,5 @@
 <template id="CardStyleOne">
-  <div class="grid grid-cols-2 border-2 border-secondary rounded-lg">
+  <div class="grid grid-cols-2 border-2 border-white rounded-lg">
     <!-- Image -->
     <figure>
       <img
@@ -9,7 +9,7 @@
       />
     </figure>
     <!-- Image Details -->
-    <div class="flex flex-col justify-center items-center gap-2">
+    <div class="flex flex-col justify-center items-center gap-2 bg-white">
       <span>Central Austin</span>
       <span>Explore now!</span>
     </div>

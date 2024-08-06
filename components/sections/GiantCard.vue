@@ -18,6 +18,10 @@ export default {
       type: String,
       default: '#', // Corrected the default value
     },
+    color: {
+      type: String,
+      default: 'bg-tertiary', // Corrected the default value
+    },
   },
 }
 </script>
@@ -32,7 +36,8 @@ export default {
     </figure>
     <div class="col-span-2 grid items-center md:ml-[-20%]">
       <div
-        class="flex flex-col justify-center items-center bg-tertiary rounded-tl-[30px] rounded-br-[30px] py-20 px-5 gap-4"
+        class="flex flex-col justify-center items-center rounded-tl-[30px] rounded-br-[30px] py-20 px-5 gap-4"
+        :class="color"
       >
         <h2 class="text-3xl">{{ title }}</h2>
         <p class="text-white mb-4">
