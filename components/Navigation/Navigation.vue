@@ -19,7 +19,7 @@
         <button
           data-collapse-toggle="navbar-sticky"
           type="button"
-          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white hover:text-primary rounded-lg md:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
+          class="inline-flex items-center p-2 w-10 h-10 justify-center text-sm text-white hover:text-primary rounded-lg lg:hidden hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200"
           aria-controls="navbar-sticky"
           aria-expanded="false"
           @click="toggleHamburgerMenu"
@@ -44,15 +44,17 @@
       </div>
       <div
         id="navbar-sticky"
-        class="items-center justify-between hidden w-full md:flex md:w-auto md:order-1"
+        class="items-center justify-between hidden w-full lg:flex lg:w-auto lg:order-1"
       >
         <ul
           class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0"
         >
-          <ListItem title="Things to do" />
-          <ListItem title="Places to Stay" />
-          <ListItem title="Where to eat and Drink" />
-          <ListItem title="Events" />
+          <ListItem
+            v-for="menuItem in menu"
+            :key="menuItem.title"
+            :title="menuItem.title"
+            :link="menuItem.link"
+          />
         </ul>
       </div>
     </div>
@@ -69,32 +71,8 @@
 import ListItem from '@/components/Navigation/ListItem.vue'
 import HamburgerMenu from '@/components/Navigation/HamburgerMenu.vue'
 import ModalBackdrop from '@/components/ModalBackdrop.vue'
-const sampleMenu = [
-  {
-    title: 'Home ',
-    link: '#',
-  },
-  {
-    title: 'Things to do ',
-    link: '#',
-  },
-  {
-    title: 'Places to stay ',
-    link: '#',
-  },
-  {
-    title: 'Where to eat and drink ',
-    link: '#',
-  },
-  {
-    title: 'Events ',
-    link: '#',
-  },
-  {
-    title: 'Contact ',
-    link: '#',
-  },
-]
+import menu from '@/config/menu.json'
+
 export default {
   name: 'Navigation',
   components: {
@@ -105,9 +83,10 @@ export default {
   data() {
     return {
       isHamburgerMenuOpen: false,
-      sampleMenu,
+      menu: menu.mainMenu,
     }
   },
+
   methods: {
     toggleHamburgerMenu() {
       this.isHamburgerMenuOpen = !this.isHamburgerMenuOpen

@@ -1,0 +1,24 @@
+{
+  "mainMenu": [
+    {
+      "title": "Things to do",
+      "link": "/things-to-do"
+    },
+    {
+      "title": "Places to stay",
+      "link": "/places-to-stay"
+    },
+    {
+      "title": "Eat and drink",
+      "link": "/eat-and-drink"
+    },
+    {
+      "title": "Events",
+      "link": "/events"
+    },
+    {
+      "title": "Contact",
+      "link": "/contact"
+    }
+  ]
+}

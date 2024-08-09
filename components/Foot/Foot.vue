@@ -11,11 +11,13 @@
       <ul
         class="flex flex-col md:flex-row flex-wrap items-center mt-3 text-sm font-medium sm:mt-0"
       >
-        <ListItem title="Things to do" type="{{ false }}" />
-        <ListItem title="Places to Stay" type="{{ false }}" />
-        <ListItem title="Where to eat and Drink" type="{{ false }}" />
-        <ListItem title="Events" type="{{ false }}" />
-        <ListItem title="Contact" type="{{ false }}" />
+        <ListItem
+          v-for="menuItem in menu"
+          :key="menuItem.title"
+          :title="menuItem.title"
+          type="{{ false }}"
+          :link="menuItem.link"
+        />
       </ul>
     </div>
   </footer>
@@ -23,10 +25,16 @@
 
 <script>
 import ListItem from '@/components/Navigation/ListItem.vue'
+import menu from '@/config/menu.json'
 export default {
   name: 'Foot',
   components: {
     ListItem,
+  },
+  data() {
+    return {
+      menu: menu.mainMenu,
+    }
   },
 }
 </script>

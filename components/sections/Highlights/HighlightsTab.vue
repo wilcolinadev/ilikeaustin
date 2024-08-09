@@ -7,15 +7,19 @@ export default {
       type: String,
       default: 'Prop Missing', // Corrected the default value
     },
+    active: {
+      type: Boolean,
+      default: false,
+    },
   },
 }
 </script>
 
 <template id="HighlightTab">
-  <li>
-    <a
-      href="#"
-      class="inline-flex items-center my-1 px-4 py-3 text-primary rounded-lg w-full border-2 border-primary hover:border-tree transition-all"
+  <li class="w-[47%] h-1/2 md:w-auto md:h-auto">
+    <button
+      :class="active && 'bg-gray-100'"
+      class="inline-flex items-center px-4 py-3 text-primary rounded-lg w-full border-2 border-primary hover:border-secondary transition-all h-full"
       aria-current="page"
     >
       <svg
@@ -30,6 +34,6 @@ export default {
         />
       </svg>
       {{ title }}
-    </a>
+    </button>
   </li>
 </template>

@@ -1,5 +1,5 @@
 <template id="HamburgerMenu">
-  <div id="navbar-hamburger" class="w-full absolute md:hidden">
+  <div id="navbar-hamburger" class="w-full absolute lg:hidden">
     <ul
       class="flex flex-col font-medium bg-gray-50 border-t-2 border-white gap-3"
     >
@@ -16,19 +16,14 @@
 </template>
 
 <script>
+import menu from '@/config/menu.json'
 export default {
   name: 'HamburgerMenu',
   components: {},
-  props: {
-    menu: {
-      type: Array,
-      default: () => [
-        {
-          title: 'Home ',
-          link: '#',
-        },
-      ],
-    },
+  data() {
+    return {
+      menu: menu.mainMenu,
+    }
   },
 }
 </script>

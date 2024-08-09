@@ -1,7 +1,7 @@
 <template>
   <li>
     <a
-      href="#"
+      :href="link"
       class="block py-2 px-3 bg-transparent rounded"
       aria-current="page"
       :class="colorclass"
@@ -22,6 +22,10 @@ export default {
     type: {
       type: Boolean,
       default: false,
+    },
+    link: {
+      type: String,
+      default: '#', // Corrected the default value
     },
   },
   data() {
