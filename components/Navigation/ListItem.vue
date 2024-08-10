@@ -1,16 +1,3 @@
-<template>
-  <li>
-    <a
-      :href="link"
-      class="block py-2 px-3 bg-transparent rounded"
-      aria-current="page"
-      :class="colorclass"
-    >
-      {{ title }}
-    </a>
-  </li>
-</template>
-
 <script>
 export default {
   name: 'ListItem',
@@ -35,3 +22,16 @@ export default {
   },
 }
 </script>
+
+<template>
+  <li>
+    <a
+      :href="link"
+      class="block py-2 px-3 bg-transparent rounded"
+      aria-current="page"
+      :class="colorclass"
+    >
+      {{ title }}
+    </a>
+  </li>
+</template>
