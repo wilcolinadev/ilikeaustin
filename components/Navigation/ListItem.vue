@@ -25,13 +25,13 @@ export default {
 
 <template>
   <li>
-    <a
-      :href="link"
+    <NuxtLink
+      :to="link"
       class="block py-2 px-3 bg-transparent rounded"
       aria-current="page"
       :class="colorclass"
     >
       {{ title }}
-    </a>
+    </NuxtLink>
   </li>
 </template>

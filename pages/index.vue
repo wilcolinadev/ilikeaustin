@@ -1,17 +1,8 @@
-<script>
+<script setup>
 import HomeHeader from '@/components/HomeHeader/HomeHeader.vue'
 import AustinOverview from '@/components/sections/AustinOverview.vue'
 import Highlights from '@/components/sections/Highlights/Highlights.vue'
 import GiantCard from '@/components/sections/GiantCard.vue'
-export default {
-  components: {
-    HomeHeader,
-    AustinOverview,
-    Highlights,
-    GiantCard,
-  },
-  data() {},
-}
 </script>
 
 <template>
