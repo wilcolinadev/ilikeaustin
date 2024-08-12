@@ -4,10 +4,10 @@
       class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 z-40"
     >
       <NuxtLink to="/" class="flex items-center space-x-3 rtl:space-x-reverse">
-        <span
-          class="self-center text-2xl font-semibold whitespace-nowrap text-white"
-          >ILikeAustin ❤️</span
-        >
+        <img
+          class="h-[50px] w-auto"
+          src="https://res.cloudinary.com/djf9jqpml/image/upload/v1723429267/Austin/i-like-austin_vlvukg.png"
+        />
       </NuxtLink>
       <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
         <NuxtLink to="/activities">

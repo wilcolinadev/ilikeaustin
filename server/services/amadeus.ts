@@ -22,3 +22,27 @@ export const handleGetActivities = async (token: string) => {
   })
   return response
 }
+
+export const handleGetHotels = async (token: string) => {
+  const url =
+    'https://test.api.amadeus.com/v1/reference-data/locations/hotels/by-city?cityCode=AUS'
+
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  })
+  return response
+}
+
+export const handleGetHotelOffers = async (token: string) => {
+  const url =
+    'https://test.api.amadeus.com/v3/shopping/hotel-offers?hotelIds=BWAUS664&adults=1'
+
+  const response = await fetch(url, {
+    headers: {
+      Authorization: `Bearer ${token}`,
+    },
+  })
+  return response
+}

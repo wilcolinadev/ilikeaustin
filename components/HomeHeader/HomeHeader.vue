@@ -8,7 +8,7 @@
       Taking your
       <span
         class="underline underline-offset-3 decoration-8 decoration-secondary"
-        >Austin Texas
+        >Austin, Texas
       </span>
       <br />
       visit to the next level
