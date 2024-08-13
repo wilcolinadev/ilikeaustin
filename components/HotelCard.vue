@@ -1,49 +1,58 @@
 <script>
+import StarRating from '@/components/StarRating.vue'
 export default {
   name: 'HotelCard',
+  components: {
+    StarRating,
+  },
   props: {
     hotel: {
       type: Object,
       default: () => ({}),
     },
   },
+  methods: {
+    formatImageUrl(url) {
+      //https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/e8/4e/63/exterior.jpg?w={width}&h={height}&s=1
+      const width = 300
+      const height = 300
+      return url.replace('{width}', width).replace('{height}', height)
+    },
+  },
 }
 </script>
 
 <template id="HotelCard">
-  <div
-    class="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700"
+  <a
+    href="#"
+    class="flex flex-col items-center bg-white border border-gray-200 rounded-lg shadow md:flex-row md:max-w-xl hover:bg-gray-100"
   >
-    <div class="p-5">
-      <a href="#">
-        <h5
-          class="mb-2 text-2xl font-bold tracking-tight text-gray-900 capitalize"
+    <img
+      v-if="hotel.cardPhotos?.[0].sizes.urlTemplate"
+      class="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-s-lg"
+      :src="formatImageUrl(hotel.cardPhotos?.[0].sizes.urlTemplate)"
+      alt=""
+    />
+    <div class="flex flex-col justify-between p-4 leading-normal">
+      <h5 class="mb-2 text-xl font-bold tracking-tight text-gray-900">
+        {{ hotel.title }}
+      </h5>
+      <p class="mb-3 text-gray-500 dark:text-gray-400">
+        {{ hotel.secondaryInfo }}
+      </p>
+      <span class="text-3xl font-bold text-gray-900 dark:text-white">{{
+        hotel.priceForDisplay
+      }}</span>
+      <StarRating :rating="hotel.bubbleRating?.rating" />
+      <div class="flex items-center mb-3 mt-2 gap-2">
+        <a
+          target="_blank"
+          :href="hotel.commerceInfo?.externalUrl"
+          class="inline-flex items-center px-3 py-3 text-sm font-medium text-center text-white bg-tertiary rounded-lg hover:bg-secondary hover:text-black focus:ring-4 focus:outline-none focus:ring-blue-300"
         >
-          {{ hotel.name }}
-        </h5>
-      </a>
-
-      <a
-        href="#"
-        class="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
-      >
-        Read more
-        <svg
-          class="rtl:rotate-180 w-3.5 h-3.5 ms-2"
-          aria-hidden="true"
-          xmlns="http://www.w3.org/2000/svg"
-          fill="none"
-          viewBox="0 0 14 10"
-        >
-          <path
-            stroke="currentColor"
-            stroke-linecap="round"
-            stroke-linejoin="round"
-            stroke-width="2"
-            d="M1 5h12m0 0L9 1m4 4L9 9"
-          />
-        </svg>
-      </a>
+          Learn more
+        </a>
+      </div>
     </div>
-  </div>
+  </a>
 </template>
