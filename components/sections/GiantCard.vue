@@ -1,4 +1,5 @@
 <script>
+import { transformImageUrl } from '~/utils'
 export default {
   name: 'GiantCard',
   props: {
@@ -23,6 +24,9 @@ export default {
       default: 'bg-tertiary', // Corrected the default value
     },
   },
+  methods: {
+    transformImageUrl,
+  },
 }
 </script>
 
@@ -31,7 +35,7 @@ export default {
     <figure class="col-span-3">
       <img
         class="max-w-[100%] max-h-[440px] max object-cover rounded-tl-[30px] rounded-br-[30px]"
-        :src="img"
+        :src="transformImageUrl(img, 1000, 600)"
       />
     </figure>
     <div class="col-span-2 grid items-center md:ml-[-20%]">

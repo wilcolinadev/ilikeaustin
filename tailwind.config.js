@@ -26,7 +26,7 @@ module.exports = {
       },
       backgroundImage: {
         'hero-pattern':
-          "linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url('https://res.cloudinary.com/djf9jqpml/image/upload/v1722023738/Austin/mitchell-kmetz-ztVcGTSD8xw-unsplash_xusxks.jpg')",
+          "linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.7)), url('https://res.cloudinary.com/djf9jqpml/image/upload/w_1600,h_600,c_fill,f_auto,q_auto/v1722023738/Austin/mitchell-kmetz-ztVcGTSD8xw-unsplash_xusxks.jpg')",
       },
     },
   },

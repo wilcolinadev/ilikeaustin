@@ -32,9 +32,9 @@ export default {
       >
         <ListItem
           v-for="menuItem in menu"
-          :key="menuItem"
+          :key="menuItem.title"
           :title="menuItem.title"
-          type="{{ false }}"
+          :type="true"
           :link="menuItem.link"
         />
       </ul>

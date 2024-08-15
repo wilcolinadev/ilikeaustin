@@ -2,6 +2,7 @@
 import CardStyleOne from '@/components/sections/Highlights/CardStyleOne.vue'
 import CardStyleTwo from '@/components/sections/Highlights/CardStyleTwo.vue'
 import highlights from '../../../config/highligths.json'
+import { transformImageUrl } from '~/utils'
 export default {
   name: 'HighlightsMain',
   components: {
@@ -19,6 +20,9 @@ export default {
       highlights,
     }
   },
+  methods: {
+    transformImageUrl,
+  },
 }
 </script>
 
@@ -34,7 +38,7 @@ export default {
         v-for="highlight in highlights[activeKey].slice(0, 2)"
         :key="highlight.title"
         :title="highlight.title"
-        :img="highlight.img"
+        :img="transformImageUrl(highlight.img, 1000, 600)"
         :link="highlight.link"
       />
     </div>
@@ -43,7 +47,7 @@ export default {
       v-for="highlight in highlights[activeKey].slice(2, 4)"
       :key="highlight.title"
       :title="highlight.title"
-      :img="highlight.img"
+      :img="transformImageUrl(highlight.img, 1000, 600)"
       :link="highlight.link"
     />
   </div>

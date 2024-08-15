@@ -24,7 +24,7 @@ export default {
     <figure class="p-5 md:p-10 flex flex-col justify-center items-center">
       <img
         class="rounded-full w-full lg:w-[400px] h-[400px] object-cover max-w-[400px] max-h-[400px]"
-        src="https://res.cloudinary.com/djf9jqpml/image/upload/v1722022221/Austin/tomek-baginski-zjrAEvnynm8-unsplash_xuvjrq.jpg"
+        src="https://res.cloudinary.com/djf9jqpml/image/upload/w_600,h_600,c_fill,f_auto,q_auto/v1722022221/Austin/tomek-baginski-zjrAEvnynm8-unsplash_xuvjrq.jpg"
       />
     </figure>
   </section>
