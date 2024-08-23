@@ -3,6 +3,11 @@ import HomeHeader from '@/components/HomeHeader/HomeHeader.vue'
 import AustinOverview from '@/components/sections/AustinOverview.vue'
 import Highlights from '@/components/sections/Highlights/Highlights.vue'
 import GiantCard from '@/components/sections/GiantCard.vue'
+useHead({
+  titleTemplate: titleChunk => {
+    return titleChunk ? ` Home - ${titleChunk}` : 'Home'
+  },
+})
 </script>
 
 <template>

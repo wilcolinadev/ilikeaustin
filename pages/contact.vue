@@ -112,6 +112,11 @@
 </template>
 
 <script>
+useHead({
+  titleTemplate: titleChunk => {
+    return titleChunk ? ` Contact - ${titleChunk}` : 'Contact'
+  },
+})
 export default {
   data() {
     return {

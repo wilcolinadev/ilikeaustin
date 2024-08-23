@@ -1,6 +1,11 @@
 <script setup>
 import HotelCard from '../components/HotelCard.vue'
 import LevelOne from '../templates/LevelOne.vue'
+useHead({
+  titleTemplate: titleChunk => {
+    return titleChunk ? ` Places to Stay - ${titleChunk}` : 'Places to Stay'
+  },
+})
 const descriptions = [
   `Austin offers a range of accommodations to suit every traveler’s needs, from chic downtown hotels to cozy boutique inns. Whether you’re looking for a place with a vibrant atmosphere or a quiet retreat, Austin has the perfect spot for you.`,
 

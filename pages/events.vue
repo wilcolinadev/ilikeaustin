@@ -1,3 +1,11 @@
+<script>
+useHead({
+  titleTemplate: titleChunk => {
+    return titleChunk ? `Contact - ${titleChunk}` : 'Contact'
+  },
+})
+</script>
+
 <template>
   <div class="max-w-6xl m-auto py-6 px-6 flex flex-col gap-10">
     <h1 class="text-3xl font-bold">Popular Activities Events in Austin</h1>

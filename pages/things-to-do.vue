@@ -1,5 +1,10 @@
 <script setup>
 import LevelOne from '../templates/LevelOne.vue'
+useHead({
+  titleTemplate: titleChunk => {
+    return titleChunk ? ` Things to do - ${titleChunk}` : 'Things to do'
+  },
+})
 const descriptions = [
   ` Austin is a city where live music, outdoor adventures, and cultural
         landmarks come together. Whether you're enjoying a live show at a local

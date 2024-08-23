@@ -1,7 +1,13 @@
 <script setup>
 import ActivityCard from '../components/ActivityCard.vue'
 import LevelOne from '../templates/LevelOne.vue'
+useHead({
+  titleTemplate: titleChunk => {
+    return titleChunk ? ` Eat and Drink - ${titleChunk}` : 'Eat and Drink'
+  },
+})
 const { data: activities, error } = await useFetch('/api/activities')
+
 const descriptions = [
   `Austin is a culinary haven where foodies can indulge in a diverse array of dining experiences. From renowned barbecue joints and food trucks offering mouthwatering bites to upscale eateries serving innovative dishes, there's something to satisfy every palate. Enjoy vibrant flavors, local ingredients, and a dining scene that's as lively as the city itself.`,
 
