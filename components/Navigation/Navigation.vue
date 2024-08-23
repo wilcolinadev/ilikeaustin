@@ -56,7 +56,7 @@ function toggleHamburgerMenu() {
           @mouseenter="showToolTip"
           @mouseleave="hideToolTip"
         >
-          {{ data.current.temp_f }} °F
+          {{ data.current.temp_f.toFixed(0) }} °F
           <img
             :src="data.current.condition.icon"
             alt="Weather in Austin"

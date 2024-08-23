@@ -1,8 +1,8 @@
 <template id="EmailNewsletter">
   <div class="py-8 px-4 mx-auto max-w-screen-xl text-center lg:py-16 relative">
-    <a
-      href="#"
-      class="inline-flex justify-between items-center py-1 px-1 pe-4 mb-7 text-sm text-black bg-blue-100 rounded-full hover:bg-gray-200"
+    <NuxtLink
+      to="/events"
+      class="inline-flex justify-between items-center py-1 px-1 pe-4 mb-7 text-sm text-black bg-white rounded-full"
     >
       <span class="text-xs bg-primary rounded-full text-white px-4 py-1.5 me-3"
         >New</span
@@ -25,9 +25,9 @@
           d="m1 9 4-4-4-4"
         />
       </svg>
-    </a>
+    </NuxtLink>
     <h1
-      class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl dark:text-white"
+      class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl"
     >
       Austin Information and Events
     </h1>
@@ -71,7 +71,7 @@
         />
         <button
           type="submit"
-          class="text-white absolute end-2.5 bottom-2.5 bg-primary hover:bg-tertiary focus:ring-4 focus:outline-none focus:ring-tertiary font-medium rounded-lg text-sm px-4 py-2 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          class="text-white absolute end-2.5 bottom-2.5 bg-primary hover:bg-tertiary focus:ring-4 focus:outline-none focus:ring-tertiary font-medium rounded-lg text-sm px-4 py-2"
         >
           Sign up
         </button>

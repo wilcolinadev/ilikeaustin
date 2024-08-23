@@ -12,7 +12,7 @@
         <NuxtLink
           v-if="item.href"
           :to="item.href"
-          class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-secondary"
+          class="inline-flex items-center text-sm font-medium text-gray-700 hover:text-tree"
         >
           {{ item.text }}
         </NuxtLink>
