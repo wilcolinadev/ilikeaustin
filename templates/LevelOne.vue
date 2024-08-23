@@ -1,6 +1,6 @@
 <template id="LevelOne">
   <box>
-    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+    <div class="grid grid-cols-1 md:grid-cols-2 gap-6 animate-fadeIn">
       <figure>
         <img
           class="max-w-md w-full rounded"

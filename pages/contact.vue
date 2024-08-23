@@ -45,7 +45,7 @@
             <label
               for="interest"
               class="block text-black text-md font-semibold mb-2"
-              >What you are interested</label
+              >Area of Interest</label
             >
             <select
               id="interest"
@@ -70,7 +70,7 @@
             <label
               for="budget"
               class="block text-black text-md font-semibold mb-2"
-              >Select your Goal</label
+              >Collaboration Objective</label
             >
             <select
               id="budget"

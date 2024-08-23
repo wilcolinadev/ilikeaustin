@@ -1,23 +1,69 @@
+<script setup>
+import { ref } from 'vue'
+import ListItem from '@/components/Navigation/ListItem.vue'
+import HamburgerMenu from '@/components/Navigation/HamburgerMenu.vue'
+import ModalBackdrop from '@/components/ModalBackdrop.vue'
+import ToolTip from '../ToolTip.vue'
+import menu from '@/config/menu.json'
+const { data } = await useFetch('/api/weather')
+
+const isHamburgerMenuOpen = ref(false)
+const menuItems = ref(menu.mainMenu)
+const isToolTipVisible = ref(false)
+let toolTipTimeout
+
+function showToolTip() {
+  isToolTipVisible.value = true
+  clearTimeout(toolTipTimeout)
+}
+
+function hideToolTip() {
+  toolTipTimeout = setTimeout(() => {
+    isToolTipVisible.value = false
+  }, 300)
+}
+
+function toggleHamburgerMenu() {
+  isHamburgerMenuOpen.value = !isHamburgerMenuOpen.value
+  const body = document.querySelector('body')
+  if (isHamburgerMenuOpen.value) {
+    body.classList.add('overflow-hidden')
+  } else {
+    body.classList.remove('overflow-hidden')
+  }
+}
+</script>
 <template id="Navigation">
-  <nav class="bg-primary w-full top-0 start-0 z-40 relative">
+  <nav
+    class="w-full top-0 start-0 z-40 bg-gradient-to-r from-primary to-tertiary animate-gradient-x sticky"
+  >
     <div
       class="max-w-screen-xl flex flex-wrap items-center justify-between mx-auto p-4 z-40"
     >
       <NuxtLink to="/" class="flex items-center space-x-3 rtl:space-x-reverse">
         <img
           class="h-[50px] w-auto"
-          src="https://res.cloudinary.com/djf9jqpml/image/upload/v1723429267/Austin/i-like-austin_vlvukg.png"
+          src="https://res.cloudinary.com/djf9jqpml/image/upload/v1724380981/Austin/i-like-austin_vlvukg-removebg-preview_tmxosz.png"
         />
       </NuxtLink>
-      <div class="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
-        <NuxtLink to="/activities">
-          <button
-            type="button"
-            class="text-primary bg-secondary hover:bg-secondary focus:ring-4 focus:outline-none focus:ring-blue-300 font-medium rounded-lg text-sm px-4 py-2 text-center hidden md:block"
-          >
-            Plan your visit
-          </button>
-        </NuxtLink>
+      <div
+        class="flex md:order-2 space-x-0 md:space-x-0 rtl:space-x-reverse justify-center items-center"
+      >
+        <span
+          v-if="data"
+          to="/activities"
+          class="text-white text-xl flex justify-center md:justify-end items-center font-semibold leading-tight italic cursor-pointer"
+          @mouseenter="showToolTip"
+          @mouseleave="hideToolTip"
+        >
+          {{ data.current.temp_f }} °F
+          <img
+            :src="data.current.condition.icon"
+            alt="Weather in Austin"
+            class="filter brightness-0 w-15 h-15 invert"
+          />
+          <ToolTip v-if="isToolTipVisible" />
+        </span>
         <button
           data-collapse-toggle="navbar-sticky"
           type="button"
@@ -52,7 +98,7 @@
           class="flex flex-col p-4 md:p-0 mt-4 font-medium border border-gray-100 rounded-lg md:space-x-8 rtl:space-x-reverse md:flex-row md:mt-0 md:border-0"
         >
           <ListItem
-            v-for="menuItem in menu"
+            v-for="menuItem in menuItems"
             :key="menuItem.title"
             :title="menuItem.title"
             :link="menuItem.link"
@@ -69,36 +115,20 @@
   <ModalBackdrop v-if="isHamburgerMenuOpen" @close="toggleHamburgerMenu" />
 </template>
 
-<script>
-import ListItem from '@/components/Navigation/ListItem.vue'
-import HamburgerMenu from '@/components/Navigation/HamburgerMenu.vue'
-import ModalBackdrop from '@/components/ModalBackdrop.vue'
-import menu from '@/config/menu.json'
-
-export default {
-  name: 'Navigation',
-  components: {
-    ListItem,
-    HamburgerMenu,
-    ModalBackdrop,
-  },
-  data() {
-    return {
-      isHamburgerMenuOpen: false,
-      menu: menu.mainMenu,
-    }
-  },
-
-  methods: {
-    toggleHamburgerMenu() {
-      this.isHamburgerMenuOpen = !this.isHamburgerMenuOpen
-      const body = document.querySelector('body')
-      if (this.isHamburgerMenuOpen) {
-        body.classList.add('overflow-hidden')
-      } else {
-        body.classList.remove('overflow-hidden')
-      }
-    },
-  },
+<style>
+@keyframes gradient-x {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
 }
-</script>
+.animate-gradient-x {
+  background-size: 200% 200%;
+  animation: gradient-x 8s ease infinite;
+}
+</style>

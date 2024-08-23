@@ -5,7 +5,7 @@ export default {
 </script>
 
 <template id="AustinOverview">
-  <section class="grid grid-cols-1 md:grid-cols-2">
+  <section class="grid grid-cols-1 md:grid-cols-2 animate-fadeIn">
     <div class="flex flex-col justify-center">
       <h2 class="text-3xl text-primary mb-5">Discover Vibrant Austin, Texas</h2>
       <p>
