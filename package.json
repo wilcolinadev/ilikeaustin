@@ -16,6 +16,7 @@
   "dependencies": {
     "@fontsource-variable/comfortaa": "^5.0.21",
     "@fontsource-variable/raleway": "^5.0.21",
+    "@nuxtjs/google-analytics": "^2.4.0",
     "dayjs": "^1.11.13",
     "flowbite": "^2.5.1",
     "flowbite-vue": "^0.1.6",

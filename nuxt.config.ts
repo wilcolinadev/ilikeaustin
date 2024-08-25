@@ -2,7 +2,6 @@
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/eslint', '@nuxtjs/tailwindcss'],
-
   typescript: {
     typeCheck: true,
   },
@@ -40,6 +39,7 @@ export default defineNuxtConfig({
           async: true,
           defer: true,
         },
+        
       ],
     },
   },
