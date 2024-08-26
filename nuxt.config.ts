@@ -1,4 +1,3 @@
-// https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: ['@nuxt/eslint', '@nuxtjs/tailwindcss'],
@@ -39,7 +38,18 @@ export default defineNuxtConfig({
           async: true,
           defer: true,
         },
-        
+        {
+          src: `https://www.googletagmanager.com/gtag/js?id=G-6E6NCQJ8Z3`,
+          async: true,
+        },
+        {
+          innerHTML: `
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-6E6NCQJ8Z3'); 
+          `,
+        },
       ],
     },
   },

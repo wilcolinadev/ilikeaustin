@@ -111,30 +111,22 @@
   </div>
 </template>
 
-<script>
+<script setup>
 useHead({
   titleTemplate: titleChunk => {
     return titleChunk ? ` Contact - ${titleChunk}` : 'Contact'
   },
 })
-export default {
-  data() {
-    return {
-      form: {
-        name: '',
-        email: '',
-        interest: '',
-        budget: '',
-        message: '',
-      },
-    }
-  },
-  methods: {
-    handleSubmit() {
-      // Handle form submission
-      console.log('Form submitted', this.form)
-      // Add your form submission logic here
-    },
-  },
+
+const form = reactive({
+  name: '',
+  email: '',
+  interest: '',
+  budget: '',
+  message: '',
+})
+
+const handleSubmit = () => {
+  console.log(form)
 }
 </script>
