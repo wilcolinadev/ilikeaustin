@@ -7,7 +7,7 @@
       <p class="text-gray-600 font-medium text-md mb-6">
         Let's collaborate and achieve something great! <span>👋</span>
       </p>
-      <form @submit.prevent="handleSubmit">
+      <form>
         <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-6">
           <div>
             <label
@@ -17,7 +17,6 @@
             >
             <input
               id="name"
-              v-model="form.name"
               type="text"
               class="w-full border border-gray-300 p-4 rounded-lg text-black"
               placeholder="Your Name"
@@ -32,7 +31,6 @@
             >
             <input
               id="email"
-              v-model="form.email"
               type="email"
               class="w-full border border-gray-300 p-4 rounded-lg text-black"
               placeholder="Your Email"
@@ -49,21 +47,27 @@
             >
             <select
               id="interest"
-              v-model="form.interest"
+              name="category"
               class="w-full border border-gray-300 p-4 rounded-lg"
             >
-              <option>Live Music Events</option>
-              <option>Food & Drink Experiences</option>
-              <option>Outdoor Activities</option>
-              <option>Local Attractions</option>
-              <option>Cultural Tours</option>
-              <option>Austin Nightlife</option>
-              <option>Historical Sites</option>
-              <option>Shopping Hotspots</option>
-              <option>Family-Friendly Activities</option>
-              <option>Festivals & Celebrations</option>
-
-              <option>Other</option>
+              <option value="">Select an option</option>
+              <option value="Live Music Events">Live Music Events</option>
+              <option value="Food & Drink Experiences">
+                Food & Drink Experiences
+              </option>
+              <option value="Outdoor Activities">Outdoor Activities</option>
+              <option value="Local Attractions">Local Attractions</option>
+              <option value="Cultural Tours">Cultural Tours</option>
+              <option value="Austin Nightlife">Austin Nightlife</option>
+              <option value="Historical Sites">Historical Sites</option>
+              <option value="Shopping Hotspots">Shopping Hotspots</option>
+              <option value="Family-Friendly Activities">
+                Family-Friendly Activities
+              </option>
+              <option value="Festivals & Celebrations">
+                Festivals & Celebrations
+              </option>
+              <option value="Other">Other</option>
             </select>
           </div>
           <div>
@@ -74,14 +78,16 @@
             >
             <select
               id="budget"
-              v-model="form.budget"
+              name="purpose"
               class="w-full border border-gray-300 p-4 rounded-lg text-black"
             >
-              <option>Select your Goal</option>
-              <option>Write about Austin</option>
-              <option>Include your Business in here</option>
-              <option>Collaborate with us</option>
-              <option>Other</option>
+              <option value="">Select an option</option>
+              <option value="Write about Austin">Write about Austin</option>
+              <option value="Include your Business in here">
+                Include your Business in here
+              </option>
+              <option value="Collaborate with us">Collaborate with us</option>
+              <option value="Other">Other</option>
             </select>
           </div>
         </div>
@@ -93,7 +99,6 @@
           >
           <textarea
             id="message"
-            v-model="form.message"
             class="w-full border border-gray-300 p-4 rounded-lg text-black"
             rows="5"
             placeholder="Let us know your project about"
@@ -117,16 +122,4 @@ useHead({
     return titleChunk ? ` Contact - ${titleChunk}` : 'Contact'
   },
 })
-
-const form = reactive({
-  name: '',
-  email: '',
-  interest: '',
-  budget: '',
-  message: '',
-})
-
-const handleSubmit = () => {
-  console.log(form)
-}
 </script>
