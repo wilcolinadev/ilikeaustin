@@ -34,13 +34,13 @@ export default {
   <div class="grid grid-cols-1 md:grid-cols-5">
     <figure class="col-span-3">
       <img
-        class="max-w-[100%] max-h-[440px] max object-cover rounded-tl-[30px] rounded-br-[30px]"
+        class="max-w-[100%] max-h-[440px] max object-cover rounded-t-[30px] md:rounded-tl-[30px] md:rounded-br-[30px] md:rounded-tr-0 md:rounded-bl-0"
         :src="transformImageUrl(img, 1000, 600)"
       />
     </figure>
     <div class="col-span-2 grid items-center md:ml-[-20%]">
       <div
-        class="flex flex-col justify-center items-center rounded-tl-[30px] rounded-br-[30px] py-20 px-5 gap-4"
+        class="flex flex-col justify-center items-center md:rounded-tl-[30px] md:rounded-br-[30px] py-10 px-5 gap-4"
         :class="color"
       >
         <h2 class="text-3xl">{{ title }}</h2>

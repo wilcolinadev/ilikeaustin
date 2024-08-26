@@ -1,6 +1,6 @@
 <script setup>
 import ActivityCard from '../components/ActivityCard.vue'
-import LevelOne from '../templates/LevelOne.vue'
+import LevelOne from '../components/sections/LevelOne.vue'
 useHead({
   titleTemplate: titleChunk => {
     return titleChunk ? ` Eat and Drink - ${titleChunk}` : 'Eat and Drink'

@@ -1,5 +1,5 @@
 <script setup>
-import LevelOne from '../templates/LevelOne.vue'
+import LevelOne from '../components/sections/LevelOne.vue'
 import EventsCard from '~/components/EventsCard.vue'
 useHead({
   titleTemplate: titleChunk => {
