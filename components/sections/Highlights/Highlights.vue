@@ -13,7 +13,7 @@ export default {
       activeKey: '1',
       tabs: [
         {
-          title: 'Destinations',
+          title: 'Outdoors',
         },
         {
           title: 'Stays',
@@ -22,7 +22,7 @@ export default {
           title: 'Cuisine',
         },
         {
-          title: 'Events',
+          title: 'Nightlife',
         },
       ],
     }
