@@ -22,6 +22,10 @@ export default defineNuxtConfig({
           name: 'description',
           content: 'Default description',
         },
+        {
+          name: 'impact-site-verification',
+          content: '3db70713-fa95-4a72-952b-a1e2da454d5f',
+        },
       ],
       link: [
         {
