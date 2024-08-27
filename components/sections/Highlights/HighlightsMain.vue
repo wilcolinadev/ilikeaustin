@@ -14,6 +14,10 @@ export default {
       type: String,
       default: '1',
     },
+    title: {
+      type: String,
+      default: 'Popular Austin Highlights',
+    },
   },
   data() {
     return {
@@ -27,7 +31,9 @@ export default {
 </script>
 
 <template id="HighlightsMain">
-  <h2 class="text-lg font-bold text-primary mb-4">Explore Trending</h2>
+  <h2 class="text-lg font-bold text-white mb-4">
+    {{ title }} popular highlights
+  </h2>
 
   <!-- Desktop Version will have one larger column and Two smaller columns -->
   <div class="grid md:grid-cols-4 gap-5">

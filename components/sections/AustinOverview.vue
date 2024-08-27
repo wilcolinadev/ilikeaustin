@@ -7,7 +7,9 @@ export default {
 <template id="AustinOverview">
   <section class="grid grid-cols-1 md:grid-cols-2 animate-fadeIn">
     <div class="flex flex-col justify-center">
-      <h2 class="text-3xl text-primary mb-5">Discover Vibrant Austin, Texas</h2>
+      <h2 class="text-2xl md:text-3xl text-primary mb-5 text-balance">
+        Discover Vibrant Austin, Texas
+      </h2>
       <p>
         Austin, Texas, is an amazing place to visit.Welcome to Austin, where
         creativity thrives and the spirit of Texas comes alive. From live music

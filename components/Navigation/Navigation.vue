@@ -60,7 +60,7 @@ function toggleHamburgerMenu() {
           <img
             :src="data.current.condition.icon"
             alt="Weather in Austin"
-            class="filter brightness-0 w-15 h-15 invert"
+            class="filter brightness-0 w-12 h-12 md:w-15 md:h-15 invert"
           />
           <ToolTip v-if="isToolTipVisible" />
         </span>

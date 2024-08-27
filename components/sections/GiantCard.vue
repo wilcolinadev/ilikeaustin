@@ -40,7 +40,7 @@ export default {
     </figure>
     <div class="col-span-2 grid items-center md:ml-[-20%]">
       <div
-        class="flex flex-col justify-center items-center md:rounded-tl-[30px] md:rounded-br-[30px] py-10 px-5 gap-4"
+        class="flex flex-col justify-center items-center rounded-b-[30px] md:rounded-tl-[30px] md:rounded-br-[30px] py-10 px-5 gap-4"
         :class="color"
       >
         <h2 class="text-3xl">{{ title }}</h2>

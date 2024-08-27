@@ -48,7 +48,7 @@
             <select
               id="interest"
               name="category"
-              class="w-full border border-gray-300 p-4 rounded-lg"
+              class="w-full border border-gray-300 p-4 rounded-lg text-black"
             >
               <option value="">Select an option</option>
               <option value="Live Music Events">Live Music Events</option>

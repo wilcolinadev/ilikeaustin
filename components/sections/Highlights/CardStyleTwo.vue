@@ -26,7 +26,7 @@ export default {
       class="bg-white bg-opacity-80 rounded-full p-3 text-black m-2 flex flex-col justify-center items-center"
     >
       <span class="block text-sm">{{ title }}</span>
-      <a href="{{ link }}" class="underline">
+      <a :href="link" class="underline">
         <span class="block text-xs text-primary">Explore now!</span>
       </a>
     </div>

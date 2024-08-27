@@ -18,7 +18,7 @@ export default {
 <template id="HighlightTab">
   <li class="w-[47%] h-1/2 md:w-auto md:h-auto">
     <button
-      :class="active && 'bg-gray-100'"
+      :class="active && 'bg-yellow-100'"
       class="inline-flex items-center px-4 py-3 text-primary rounded-lg w-full border-2 border-primary hover:border-secondary transition-all h-full"
       aria-current="page"
     >

@@ -27,12 +27,12 @@
       </svg>
     </NuxtLink>
     <h1
-      class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-gray-900 md:text-5xl lg:text-6xl"
+      class="mb-4 text-4xl font-extrabold tracking-tight leading-none text-primary md:text-5xl lg:text-6xl"
     >
       Austin Information and Events
     </h1>
     <p
-      class="mb-8 text-md font-normal text-black lg:text-xl sm:px-16 lg:px-48 text-balance"
+      class="mb-8 text-sm font-normal text-primary lg:text-xl lg:px-48 text-balance"
     >
       Sign up for our newsletter, and get access to exclusive content and
       updates right on your Inbox.

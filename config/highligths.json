@@ -25,24 +25,24 @@
   "2": [
     {
       "title": "Hotel ZaZa",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722716661/Austin/brandy-vailes-yDm5RDbj-0g-unsplash_xzie6g.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726975/Austin/hotel-zaza_oa6uhn.webp",
+      "link": "https://www.hotelzaza.com/"
     },
     {
       "title": "Fairmont Austin",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724727064/Austin/fairmont-austin_xopkrx.jpg",
+      "link": "https://www.fairmont.com/austin/?goto=fiche_hotel&code_hotel=A7Z4&merchantid=seo-maps-US-A7Z4&sourceid=aw-cen&utm_medium=seo%20maps&utm_source=google%20Maps&utm_campaign=seo%20maps"
     },
     {
       "title": "Omni Austin Hotel",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724727146/Austin/omni-hotel_wt0rt3.jpg",
+      "link": "https://www.omnihotels.com/hotels/austin-downtown"
     },
 
     {
       "title": "Hyatt Regency Austin",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724727223/Austin/hyatt_fvvaan.webp",
+      "link": "https://www.hyatt.com/hyatt-regency/en-US/ausra-hyatt-regency-austin"
     }
   ],
   "3": [
@@ -58,37 +58,37 @@
     },
     {
       "title": "Otopia Rooftop",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726080/Austin/otopia_y3vt4y.webp",
+      "link": "https://www.otopiarooftop.com/"
     },
 
     {
       "title": "Sawyer & CO",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726184/Austin/sawyer_xwygtv.jpg",
+      "link": "https://www.sawyerand.co/"
     }
   ],
   "4": [
     {
       "title": "The Tipsy Alchemist",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1723170805/Austin/tomek-baginski-lZUsJI7zpy4-unsplash_up6ofq.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726306/Austin/tipsy-alchemist_rp7zw5.jpg",
+      "link": "https://tipsyatx.com/"
     },
     {
       "title": "Honey Moon Spirit Lounge",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726495/Austin/honey-moon-spirit_chjm11.jpg",
+      "link": "https://honeymoonspiritlounge.com/"
     },
     {
       "title": "Garage Cocktail Bar",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726588/Austin/Garage_Cocktail_Bar_qou2c2.webp",
+      "link": "https://garagetx.com/"
     },
 
     {
       "title": "Zilker Brewing Company",
-      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1722715864/Austin/krisztian-tabori-ZQf4jzkpz1k-unsplash_xpc7cb.jpg",
-      "link": "/food"
+      "img": "https://res.cloudinary.com/djf9jqpml/image/upload/v1724726650/Austin/zilker-brewering-company_asyye8.jpg",
+      "link": "https://www.zilkerbeer.com/"
     }
   ]
 }

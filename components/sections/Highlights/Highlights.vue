@@ -1,37 +1,19 @@
-<script>
+<script setup>
+import { ref } from 'vue'
 import HighlightsTab from '~/components/sections/Highlights/HighlightsTab.vue'
 import HighlightsMain from '@/components/sections/Highlights/HighlightsMain.vue'
 
-export default {
-  name: 'Highlights',
-  components: {
-    HighlightsTab,
-    HighlightsMain,
-  },
-  data() {
-    return {
-      activeKey: '1',
-      tabs: [
-        {
-          title: 'Outdoors',
-        },
-        {
-          title: 'Stays',
-        },
-        {
-          title: 'Cuisine',
-        },
-        {
-          title: 'Nightlife',
-        },
-      ],
-    }
-  },
-  methods: {
-    setActiveKey(key) {
-      this.activeKey = key
-    },
-  },
+const tabs = [
+  { key: '1', title: 'Outdoors' },
+  { key: '2', title: 'Stays' },
+  { key: '3', title: 'Cuisine' },
+  { key: '4', title: 'Nightlife' },
+]
+
+const activeKey = ref(tabs[0].key) // Default to the first tab
+
+const setActiveKey = key => {
+  activeKey.value = key
 }
 </script>
 
@@ -42,17 +24,20 @@ export default {
         class="flex flex-wrap md:flex-col md:space-y-2 gap-3 justify-stretch text-sm font-medium text-gray-500 md:me-4 mb-4 md:mb-0"
       >
         <HighlightsTab
-          v-for="(tab, index) in tabs"
-          :key="tab.title"
+          v-for="tab in tabs"
+          :key="tab.key"
           :title="tab.title"
-          :active="activeKey == index + 1"
-          @click="setActiveKey(index + 1)"
+          :active="activeKey === tab.key"
+          @click="setActiveKey(tab.key)"
         />
       </ul>
       <div
-        class="bg-gradient-to-b from-secondary to-yellow-300 via-secondary/95 text-medium text-gray-500 rounded-lg w-full p-4 md:p-6"
+        class="bg-gradient-to-b from-primary to-tertiary text-medium text-gray-500 rounded-lg w-full p-4 md:p-6"
       >
-        <HighlightsMain :active-key="activeKey" />
+        <HighlightsMain
+          :active-key="activeKey"
+          :title="tabs[activeKey].title"
+        />
       </div>
     </div>
   </section>
