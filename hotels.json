@@ -1,0 +1,2839 @@
+{
+  "data": [
+    {
+      "id": "15759786",
+      "title": "East Austin Hotel",
+      "primaryInfo": null,
+      "secondaryInfo": "East Austin",
+      "badge": {},
+      "bubbleRating": {
+        "count": "221",
+        "rating": 4
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$129",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3024,
+            "maxWidth": 4032,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/af/97/52/social-distanced-pool.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/4c/b3/east-austin-hotel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1009,
+            "maxWidth": 1789,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/76/01/66/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1295,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/19/65/4c/55/the-upside-bar.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=140078486&geo=15759786&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzVn44h-l0JtNnyCcHugRb4bChy3-ViJyDBuHiPVHEuyw_fH-3yPcJbrOBQx9_au5vQkfuZ_leHIMdQc-hrG-vgLnXL6S_fGgsYb4JyC-mzDn4Q7Gs8AX6A0Uwbz7nDA4Mt18bqAvgDHzhbR2MSi1jOcblqUgrhTRYchgEOMErjeRWn9qvRAqHZ6R3iK_jYYKnKMK9RCCUDWFItwVzjB2RyetL0yHdavBTX7fcPX7UEX8g&priceShown=128&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=300&rq=P&rate=107.5900&taxesRate=20.5100&feesRate=0&fees=20.5100&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_57b9714d8805ec489b7d10ac7387ef59&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=f7c14897-75ed-4374-a1c8-9b6aea7380ae&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1eac6e3d3bc2597505a1a5ec8ec0ade1a&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=9b617f53e7db451c8e649ddc83461274&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$129",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "23945161",
+      "title": "1. Cambria Hotel Austin Uptown Near The Domain",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "257",
+        "rating": 5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$232",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 3 deals from $232",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4160,
+            "maxWidth": 6240,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/28/5f/bb/da/cambria-hotel-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/57/68/22/hotel-exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/52/91/0c/guest-laundry-facilities.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/52/91/07/on-site-restaurant.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=239113504&geo=23945161&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=3&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1WXWfWVd8jOcAlJle2Va7dgoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0Cp-GFQnqCm3MTbQ6yRMoAi5TnB0C58wHYz7KTuIM3j9UyCUhCaIbb4-kz5NTOw_3kUkYDV7COTujCYHX9P7UBnMFP3ReCQSzXr8NLBUilltp_ar0QKh2ekd4iv42GCpyjCvUQglA1hSLcFc4wdkcnrS9Mh3WrwU1-33D1-1BF_I&priceShown=231&pm=AI&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=189.0000&taxesRate=32.1300&feesRate=9.9900&fees=42.1200&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_7ed46c840daf02cdaf2af7bf5b4f979e&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=6fe237b8-91a9-4b54-951e-79fc2863f401&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1c72d1ceb1172dc2c780c1eb25571540b&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=bc2f603077b74bad9da5a36e88d98b0d&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$232",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 3 deals from $232"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "282698",
+      "title": "2. Hilton Austin",
+      "primaryInfo": null,
+      "secondaryInfo": "Downtown",
+      "badge": {},
+      "bubbleRating": {
+        "count": "3,449",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$257",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $188",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/52/89/7a/reception.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2000,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/7c/33/e8/hilton-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2000,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/2a/4e/9a/event-on-6th-floor-patio.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1365,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/57/3f/26/cannon-belle-offers-dining.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32469670&geo=282698&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1Q8r3YkmNUmOnLaB-igLTEAoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0hQOMc_66ZJa60sStSwAGoEtHKXd_73My96wBhhCHsXWO990mkrgxI_fKUxfy_lly2ezYzsL_UQsjkTWVhv-2IRRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=256&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6900&rq=P&rate=219.0000&taxesRate=37.2300&feesRate=0&fees=37.2300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_7738fcbc260a80f4a0a24b76578969ca&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=75bf73d8-f1c0-4dee-b314-60fdaea2f2ec&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1b6097b39185b4a17f3bc8f6f9d9d9bfc&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=b92d5a1ced1b43c7b9b6d4bf7b0c641b&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$257",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $188"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98436",
+      "title": "3. Hyatt Regency Austin",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "4,341",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$262",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $201",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 720,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/97/e7/b4/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1733,
+            "maxWidth": 2600,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/cd/dd/4e/pool--v13807340.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 854,
+            "maxWidth": 1280,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/86/46/e4/hyatt-regency-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 854,
+            "maxWidth": 1280,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/86/46/f4/hyatt-regency-austin.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=50919692&geo=98436&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=uverNi9e_5HEM9XuECSHrqveuCPQfbSO6AfHJL3LEr_QRhvdsNADcACJk79a7Xs4rm-uVoovx2c3iNEYbT1DWwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0Vh8anwqgfSP01vLqJRDeBAfm8mUdHQrjz1tuJY2nIf6sbg-kKKV4Pibc2wXPs6CLagPWJdIkkTSfhIhjqpHunI1845HWf8Od19N1zxK0KmYKqvxlm20WakpZ_8epEUjfL3iBBPyGHiChce8SLcNrI5bBP7rUdj30W45SiWD9qNk&priceShown=262&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6200&rq=P&rate=197.0000&taxesRate=23.4700&feesRate=41.0700&fees=64.5400&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_677038e4cb6069208263f2c6354cf2eb&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=a99ab0e3-dd07-4cd4-aa8e-fd373623e8f3&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1f11c9a9e91df1f7167deec375f08f577&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=4a12ca45811944a3bbe84e6af16a2440&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$262",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $201"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "17802264",
+      "title": "4. Hotel ZaZa Austin",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "BEST_OF_BEST",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "781",
+        "rating": 5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$523",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $493",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/02/3b/b4/hotel-zaza-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/40/8e/69/hotel-zaza-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1952,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/02/3b/a3/hotel-zaza-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/02/3b/ba/lounge-area-outside-of.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=151862484&geo=17802264&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js15TZXbFJRqmigFnnOku8tugoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0CIucsOVvTwvkrrr0QE7yCos6sM0DO8X0lqATCDjehDKVqmJALY80ddu08Cbl01eOxlTlQCWhXbZ1Ccf2fzBmr-l4FJhVlqxhN6_Z3FGksask1oXwTy28gbKQo2EBEmYlH27vzn8CVZMo5eRVWFwES-9j3v-XE-4rxH68vWxIGYU&priceShown=522&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=2900&rq=P&rate=416.5000&taxesRate=79.4100&feesRate=26.5000&fees=105.9100&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_1e7b6596fd3f56646d96b00446ffb462&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=e8da8155-7cd7-435f-99b1-92fce9ddfa03&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=106f100380cae68dad8437a6ebdddc933&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=970c77a409fd4721b78fe963a97fd106&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$523",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $493"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "19414528",
+      "title": "5. Austin Marriott Downtown",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "793",
+        "rating": 5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Vio.com",
+      "priceForDisplay": "$289",
+      "strikethroughPrice": null,
+      "priceDetails": null,
+      "priceSummary": "View all 6 deals from $268",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/be/rooftop-pool.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/c5/hospitality-suite-bedroom.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/c8/presidential-suite-master.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/c9/suite-view.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=Vio&src=240845271&geo=19414528&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=47458&bucket=997778&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=vI752oFa_1V926S4M6jgXs71l9qdZoZNLa0Lq6tZwYGlwhNDsh7h0ZBtzOwDo53JrrBv8mZ7-BTBPQ4vVg8kU7Q4tVRFMwUOmjVUroTttd2VICxA8gHDX2VHsLl3hyKiTusiKYUQfP0JYReZSPF3VuNBywunLMSH1lAjd7GfmtB3-mWdNe51HSO5RoRx41Jtje1Hdb6lmzygc1h6RR4Ji3vRf_aNmmJKLr0u68R9EzEuN9mHzdw_piOqOlPpYu6W2ZxeckrTn6W7egrdTrbFo-nqqE0mzwJHwV5T0-dGv0ScfIyU9ZsQvjr5maYZ5L0A&priceShown=289&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=2100&rq=P&rate=226.2200&taxesRate=62.5400&feesRate=0&fees=62.5400&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_17ad2752168c81143bf9e73c6d0c2e2e&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=a1c43b0e-ac53-41a7-9de0-d5862dcd9cdf&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1ee54177ffd67e255504cab4032ed8d22&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=1964ddae51d84ca7b31de90b4462f4b7&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Vio.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$289",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 6 deals from $268"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "108962",
+      "title": "Residence Inn Austin The Domain Area",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": "Northwest Austin",
+      "badge": {},
+      "bubbleRating": {
+        "count": "256",
+        "rating": 4
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$158",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/86/dd/two-bedroom-suite-living.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3024,
+            "maxWidth": 4032,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/c1/46/59/arboretum.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 5504,
+            "maxWidth": 8256,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/7a/1f/7c/residence-inn-by-marriott.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 5504,
+            "maxWidth": 8256,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/7a/1f/76/residence-inn-by-marriott.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32462957&geo=108962&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzXj73FQiJE6WreBWoTgz3GFChy3-ViJyDBuHiPVHEuyw_fH-3yPcJbrOBQx9_au5vRLAWBxnngTtI2rb4TV7lylAyaFvCe3JklXrvjpL18fJuBRMT4_5_FEAxaxznKZNmeGz1lfioW7cR1oNcpkU7jeTCyXqaBB93o0DghFbJoxVyqggXNdbE9EUALohJh1zWzxri9bPdRKd6BvkE9_8hOF5BlJ8HZp3r4XB-dXDu4WpQ&priceShown=158&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1500&rq=P&rate=134.0000&taxesRate=22.8900&feesRate=1.0100&fees=23.9000&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_e80380ecacf3deb4bd62258ea6b96a3&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=e39246b2-f414-44b4-a4b8-b3f4911619a6&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1792e1ff76927142b10d95559f1a92bcd&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=d421364556424358b1f5c910162de278&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$158",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98474",
+      "title": "6. The Driskill",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "3,525",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$325",
+      "strikethroughPrice": null,
+      "priceDetails": null,
+      "priceSummary": "View all 6 deals from $299",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 712,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/84/fb/92/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 693,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/84/fb/95/lobby.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/84/fb/d2/suite.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2000,
+            "maxWidth": 2998,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/77/fd/6e/caption.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32471961&geo=98474&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=uverNi9e_5HEM9XuECSHrqveuCPQfbSO6AfHJL3LEr_QRhvdsNADcACJk79a7Xs4TVK8qwVPAQBQB6qdXTOYKwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0U_ptnzNPfDsXUsGFwIbjlF7ogzbFZuuIpgdrGrFVrpShY8fn1xfE6cY3anaPtmaJnzUEV4Fb7hspKwIMse6xWI1845HWf8Od19N1zxK0KmYKqvxlm20WakpZ_8epEUjfL3iBBPyGHiChce8SLcNrI5bBP7rUdj30W45SiWD9qNk&priceShown=325&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=2700&rq=P&rate=249.4800&taxesRate=42.4100&feesRate=32.7600&fees=75.1700&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_3506ad80ed60becde35f4d2a9ee3e812&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=47046ed5-af6e-4df4-8cb4-e121977f94d9&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=107904f7d017a1c5e398d80baafed4784&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=804ed7fcb3ee4132bd95e8a891b4f84f&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$325",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 6 deals from $299"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98418",
+      "title": "7. DoubleTree by Hilton Hotel Austin",
+      "primaryInfo": null,
+      "secondaryInfo": "St. Johns",
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "1,918",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$141",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $122",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/eb/3f/e9/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1500,
+            "maxWidth": 2250,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c0/e5/b4/brisket-sandwich.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1500,
+            "maxWidth": 2250,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c0/e5/b3/austin-mule-cocktail.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1500,
+            "maxWidth": 2171,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0c/c0/e5/b2/hotel-business-center.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32446079&geo=98418&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLP3cytQ3AqqAnOEK2K6TjQ2woct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0xeDSdttKS1gwNNTTNjfffF10E8s80nFDG5K2Ddd_gHnAk17MipVuSWhpBHglhAcxEt4gmek9A51u0xl-IhzsDcgNJb4_57XxSw2PeEh010KxerLHTcqMoksui7uWm_wuxwDZxJUzumxn7hvG_H0vnSL-qlR2VVIusPyj-S87vAs&priceShown=140&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1800&rq=P&rate=119.0000&taxesRate=21.4200&feesRate=0&fees=21.4200&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_5028063013534f7162002e25ac041b04&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=78040fc0-9697-48aa-bf09-8790cb3f956a&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=15868bf30a6d18d5792d4d9346b186de8&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=5edff66d0ce64b4daeca41d7c159e652&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$141",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $122"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "9807437",
+      "title": "8. Archer Hotel Austin",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "1,311",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$251",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $213",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4480,
+            "maxWidth": 6719,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/ed/da/archer-hotel-austin-lobby.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3402,
+            "maxWidth": 5100,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/36/e5/77/archer-hotel-austin-robe.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4480,
+            "maxWidth": 6720,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/ee/20/archer-hotel-austin-pool.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4032,
+            "maxWidth": 3024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/ee/1f/archer-austin-mobility.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=82235735&geo=9807437&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1xO_LeuidEetlPQIUQOX4gatHZAiPwVwwkZptVQdekd-zGC_KvU56xWz7TTrRx4fAEREWmFJgS6EL57Y5u8MF5pE6Xbk41sKdeBWBMkiFaYrAk17MipVuSWhpBHglhAcx_n1gOiSXtsy3z7WHWuhC0SwzYv8AeOBXQsRGZRgIDooL_7RJyP7bxX5lkNwYvBRZTPkwJtSmqq52ZdFQs4kduw&priceShown=250&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=3800&rq=P&rate=214.0000&taxesRate=36.3800&feesRate=0&fees=36.3800&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_6e03a5aa17b308fe02eee1f93a15d1b&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=8e233fdf-aa6e-4e2d-9975-a49217fd8146&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=124211e2202c60d06f3652e8a99fbd992&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=2feba6ec33584d66b6021728dcba0155&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$251",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $213"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "8792233",
+      "title": "9. Hotel Viata",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "261",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$254",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $249",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2832,
+            "maxWidth": 4256,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/fb/fb/68/granduca-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1330,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/90/89/ac/hotel-granduca-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1663,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c5/34/24/courtyard.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1663,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/c5/37/12/villa-suite-dining-room.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=108602534&geo=8792233&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js15xx7aH1adLgCRL1Ps8kcxwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0pe359CnjduOMN7lZgfArKZ5iKo6KV-3SreF6jr3XUuFIXzv4Ol5cFqiUtjcRU1aLnOlF20BRKc51o742eRMp8xRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=253&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=500&rq=P&rate=199.0000&taxesRate=17.1700&feesRate=37.1000&fees=54.2700&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_4db4042147278247d7f8b3b26b3ca8a4&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=043f8c2a-2963-43ed-b254-8c0d0f3101c9&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1194f906d65a602bc36cf7c0e0f945d2f&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=c23afccb2173477bbf6d6ab65ecc9ddb&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$254",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $249"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98453",
+      "title": "10. Omni Austin Hotel Downtown",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "3,604",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Vio.com",
+      "priceForDisplay": "$394",
+      "strikethroughPrice": "$427",
+      "priceDetails": null,
+      "priceSummary": "View all 6 deals from $394",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4371,
+            "maxWidth": 6557,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/19/3c/e3/heated-rooftop-swimming.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2378,
+            "maxWidth": 3600,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/e2/fc/omni-austin-hotel-downtown.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4806,
+            "maxWidth": 7354,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/e2/f5/capital-a-restaurant.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4316,
+            "maxWidth": 6496,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/e3/37/capital-a-bar.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=Vio&src=241021152&geo=98453&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=47458&bucket=997778&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=g0P6dzQpPRlptjdi6Zl32c71l9qdZoZNLa0Lq6tZwYGlwhNDsh7h0ZBtzOwDo53Jiab9xpRWKlPnT2_ac8xhT9F_d2UPntoDy072y66kdPCVICxA8gHDX2VHsLl3hyKiTusiKYUQfP0JYReZSPF3VuNBywunLMSH1lAjd7GfmtC9sUm9TxDyb1YNQG4J0Ztla7u-rscA8uiGaZOl-KKxFhAFxChrn85NQ-gz8NPEj9kuN9mHzdw_piOqOlPpYu6W2ZxeckrTn6W7egrdTrbFo-nqqE0mzwJHwV5T0-dGv0ScfIyU9ZsQvjr5maYZ5L0A&priceShown=393&pm=AI&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=334.5600&taxesRate=58.8700&feesRate=0&fees=58.8700&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_9d4ec9ebc2250e5e65851af91308665&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=55f376b0-a093-4a17-a334-8e366a2d03df&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1b6811aace3cb9100372a8542002cad3a&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=b8e0c2818705455bb33dd7f829f1085d&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Vio.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$394",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": {
+          "text": "$427"
+        },
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 6 deals from $394"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "223620",
+      "title": "Sonesta ES Suites Austin The Domain Area",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": "Northwest Austin",
+      "badge": {},
+      "bubbleRating": {
+        "count": "291",
+        "rating": 4.5
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$116",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/72/53/exterior-front.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/72/79/the-mat.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1024,
+            "maxWidth": 768,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/72/78/suite-kitchen-detail.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/9c/72/76/pet-friendly.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32481517&geo=223620&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzWtu0Y5VHl-RNUwP4vmww5pq0dkCI_BXDCRmm1VB16R37MYL8q9TnrFbPtNOtHHh8D4ewvsI30dj5DJ7Cs2IkFMw4Fl6YnClLiJN8Hp-bTlnPE8bPgiWRmvlS7l8lFTCi0rnApLjA8tqsz-Ef_YAokk2z0kmrvbLzzarJ7ZU9YiMyTWhfBPLbyBspCjYQESZiUfbu_OfwJVkyjl5FVYXARL72Pe_5cT7ivEfry9bEgZhQ&priceShown=115&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=2400&rq=P&rate=98.6900&taxesRate=16.7800&feesRate=0&fees=16.7800&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_7dc68377ad6ddc47db3a8582474af297&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=c93448de-b279-43db-8a6d-cfbc5980993a&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=135f598c0c5fb9bb55569290efc02f174&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=19ae0354065d4fd59db9e67d98d54ff8&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$116",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "109008",
+      "title": "11. Aiden By Best Western @ Austin City Hotel",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": "South Austin",
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "1,897",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$151",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $151",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/12/dc/ce/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1000,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/3e/48/78/machi-sushi-bar.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/3e/48/77/machi-sushi-bar.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/3e/48/76/machi-sushi-bar.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32456561&geo=109008&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=uverNi9e_5HEM9XuECSHrqveuCPQfbSO6AfHJL3LEr_QRhvdsNADcACJk79a7Xs4FFjvIgqHtQ5AFA9ajcuVlwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0_uDNa5FaIB5v-TryEwTkeUYKumrx2oREPm1WkqbQHzmsbg-kKKV4Pibc2wXPs6CLxd-4H_hMj98dgdar3ab6vY1845HWf8Od19N1zxK0KmYKqvxlm20WakpZ_8epEUjfL3iBBPyGHiChce8SLcNrI5bBP7rUdj30W45SiWD9qNk&priceShown=151&pm=AI&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=129.0000&taxesRate=21.9300&feesRate=0&fees=21.9300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_3a145f39496e9bb9328fa4199c636db1&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=444c3d16-d5ce-4b07-ba5c-5071f95e3b88&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=13a3cb857f4ae9697d750d613de20d7e8&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=ffce7b78fd2c40d09ac904fb7e9da1cb&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$151",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $151"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "3523356",
+      "title": "12. Hampton Inn & Suites Austin at The University/Capitol",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "2,009",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$204",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $192",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/f4/78/d3/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1500,
+            "maxWidth": 1708,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/8e/a8/f9/hampton-inn-suites-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1332,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/8e/a8/95/hampton-inn-suites-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1500,
+            "maxWidth": 1708,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/be/3c/6a/capitol.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=45331472&geo=3523356&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPQeIHRGaR67_JuxWXqOslzwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0mcsQUF8LzbtVYuNrV13mzFN_e3-MWv-rs7u7ch1WcS1IXzv4Ol5cFqiUtjcRU1aLQVNY2dCd41FFIv4PuoUi_BRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=204&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1200&rq=P&rate=174.0000&taxesRate=29.5800&feesRate=0&fees=29.5800&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_18a51280b818cd2c8a5b495cb0f1a864&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=2083a564-ef5b-4d84-9f3d-4495ce9a11eb&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=11267d711f527e2353e2980f8963b0321&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=60185095855f443c97ff6bf19c1e2179&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$204",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $192"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "111377",
+      "title": "13. Austin Motel",
+      "primaryInfo": null,
+      "secondaryInfo": "South Austin",
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "564",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$268",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 4 deals from $218",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1968,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/a8/fa/austin-motel-neon.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 933,
+            "maxWidth": 1400,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/16/18/7f/61/austin-motel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 934,
+            "maxWidth": 1400,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/d0/fc/9a/austin-motel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2165,
+            "maxWidth": 3300,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/d5/71/5f/austin-motel.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=110309852&geo=111377&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=4&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=yzwLxMPGfdB_bYklURwAeKveuCPQfbSO6AfHJL3LEr9GpaJuwPHkDsz5dQudTtC0pQsRvsd_QHTXnVGjO_ko4goct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0FbvlstIz9PLAlOlaOInmAteTpgPQWwEHgBMmnj4u0illqYab9jgUoUANyQ4cPvJWaq82LC7rNp2i-Bh99_cjjI1845HWf8Od19N1zxK0KmYKqvxlm20WakpZ_8epEUjfL3iBBPyGHiChce8SLcNrI5bBP7rUdj30W45SiWD9qNk&priceShown=268&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=5100&rq=P&rate=229.0000&taxesRate=38.9300&feesRate=0&fees=38.9300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_1493e7c41c2a01ccc3359d7a49e7e0e5&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=10eac214-9ff9-45f8-a561-f5bc811270ed&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1fa3725d84200fa5b7631243a28138d5f&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=fd08a72f2b79449d8199acaff21c7405&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$268",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 4 deals from $218"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "82013",
+      "title": "14. Hotel Ella",
+      "primaryInfo": null,
+      "secondaryInfo": "West Campus",
+      "badge": {},
+      "bubbleRating": {
+        "count": "1,034",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$314",
+      "strikethroughPrice": null,
+      "priceDetails": null,
+      "priceSummary": "View all 6 deals from $252",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3608,
+            "maxWidth": 5412,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/21/7d/c0/hotel-ella-exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 800,
+            "maxWidth": 1200,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/54/ca/df/artwork-inside-a-hotel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1333,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e2/e8/7e/hotel-ella.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1200,
+            "maxWidth": 1800,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0d/46/89/17/sign-above-goodall-s.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32471956&geo=82013&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1tapbpNenDhIsycoLqH6cvKtHZAiPwVwwkZptVQdekd-zGC_KvU56xWz7TTrRx4fAsI_RDmx5uMhAAlT7FpfMCgsEOFVi0qsvqaqGnabwkBHAk17MipVuSWhpBHglhAcx_n1gOiSXtsy3z7WHWuhC0SwzYv8AeOBXQsRGZRgIDooL_7RJyP7bxX5lkNwYvBRZTPkwJtSmqq52ZdFQs4kduw&priceShown=314&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6200&rq=ML&rate=246.6000&taxesRate=41.9200&feesRate=25.0000&fees=66.9200&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_166f34ec4ac07c99430a92d618ca0d4b&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=d8075d61-6218-4d61-837b-75d0c2938cd7&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1bdc6b3975688f7e5e04eae332a76cd70&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=e6340aec2f7d4741b1966266b1462427&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$314",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 6 deals from $252"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "17413711",
+      "title": "15. ARRIVE Austin",
+      "primaryInfo": null,
+      "secondaryInfo": "East Austin",
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "707",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$211",
+      "strikethroughPrice": null,
+      "priceDetails": null,
+      "priceSummary": "View all 5 deals from $151",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 791,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/26/f0/de/arrive-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 851,
+            "maxWidth": 1280,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/26/f4/b7/arrive-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 853,
+            "maxWidth": 1280,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/26/f4/b9/arrive-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 853,
+            "maxWidth": 1280,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/26/f4/b8/arrive-austin.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=150021209&geo=17413711&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1VIxquRNMqCcVqQBnDLiR1Qoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub06OXazh6lpsESP4YWnuZxWNftNUOVOYz8-YgQqyMI13zAk17MipVuSWhpBHglhAcxFM26RJywZFMc9n0iZK44ocgNJb4_57XxSw2PeEh010KxerLHTcqMoksui7uWm_wuxwDZxJUzumxn7hvG_H0vnSL-qlR2VVIusPyj-S87vAs&priceShown=211&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6000&rq=P&rate=180.0000&taxesRate=30.6000&feesRate=0&fees=30.6000&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_6fad025f0aa1496a90978a0cf370ef75&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=b9196207-032e-42fd-80b8-2175cf1d64bd&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1a824f54cf96b6153d202da44fdcc8184&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=8c5a223b34094a158547c1c2e179f891&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$211",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 5 deals from $151"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "20160557",
+      "title": "Hotel Magdalena",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "97",
+        "rating": 4.5
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$296",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3392,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/28/ea/6e/magdalena-lobby-001jpg.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/28/ea/c0/terrace-suite-nick-simonite.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/28/ea/c2/terrace-suite-nick-simonite.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1667,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/28/ea/c3/terrace-suite-nick-simonite.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=190987226&geo=20160557&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzUzHoEUWyfnYb9I9uHMnh46Chy3-ViJyDBuHiPVHEuyw_fH-3yPcJbrOBQx9_au5vRO3KOBokAKaGvnrrFpuPpMw4Fl6YnClLiJN8Hp-bTlnBzlf0XWFujDtigiZPPYrWwrnApLjA8tqsz-Ef_YAokkrp27I9NIxy6qLyeD8Nx_ryTWhfBPLbyBspCjYQESZiUfbu_OfwJVkyjl5FVYXARL72Pe_5cT7ivEfry9bEgZhQ&priceShown=295&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=3300&rq=P&rate=220.1500&taxesRate=42.9200&feesRate=32.3100&fees=75.2300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_16e88444c3b343510719bb6e4ccadfef&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=b9436c55-4e26-408e-9373-abf1f92a0e63&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1256aa4770d62f346a6258a4d57f95c47&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=d02787becfac41799fcd31986a6f8f53&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$296",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "12277946",
+      "title": "16. Aloft Austin Downtown",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "589",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$176",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $163",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/a6/62/04/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1319,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/10/e9/4c/25/aloft-austin-downtown.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1333,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f5/ef/c6/downtown-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1333,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/f5/f0/19/king-guest-room.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=114232083&geo=12277946&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490541&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPlE0FsDli5ndzIbx82VR8MQoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0Jgpe0bpEtjazo1O51x-q0vcQ3CSBiM6qMtIfce7umetIXzv4Ol5cFqiUtjcRU1aLA1j680BPe1HjCuGkruYwSxRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=175&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1200&rq=P&rate=149.0000&taxesRate=26.2400&feesRate=0&fees=26.2400&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_b47969eb6cc1b10b1cda0715adc7e5a&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=26706bde-483d-4161-b846-52e2899fea85&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=11b0beeaf64e06d1509424170c95b05aa&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=c0085228ad594a3ea0060926bbcfd1fc&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$176",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $163"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "604455",
+      "title": "17. Courtyard by Marriott Austin Downtown Convention Center",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "1,586",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$192",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $177",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/1c/9e/queen-executive-guest.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1333,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/eb/f3/bc/7-market.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3333,
+            "maxWidth": 5000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/1d/f5/9e/seating-area.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3314,
+            "maxWidth": 5000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/23/1d/f5/9b/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32462749&geo=604455&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490541&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPKR7ccEzqYRK2BwSRixbSCQoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub08jPWMd7kXlmX7cNBobNtAVtZoA3RkxuDEzkPrFwKuABIXzv4Ol5cFqiUtjcRU1aLKpWNpk3lvgFLF1PK0A9zkRRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=191&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1400&rq=P&rate=161.5000&taxesRate=29.5800&feesRate=0&fees=29.5800&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_4a654495381d21ebdc1818ecdfaf5ca7&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=11180ed8-7443-4654-9e88-599fca2b7d19&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1f0ddef8f7f7defe52d6a19564f4efb65&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=aea227db7e2043c89d7f13fdb3aabab5&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$192",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $177"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "16638373",
+      "title": "18. Carpenter Hotel",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "160",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$253",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $188",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1500,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/30/d8/7b/simple-queen.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1365,
+            "maxWidth": 2048,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/14/0a/c2/the-carpenter-hotel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 933,
+            "maxWidth": 1400,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/18/14/0f/24/the-carpenter-hotel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 683,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1d/55/fb/0e/the-carpenter-hotel.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=137603143&geo=16638373&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=uverNi9e_5HEM9XuECSHrqveuCPQfbSO6AfHJL3LEr_QRhvdsNADcACJk79a7Xs4M_Hvr6bttpXX0Yiz-07FkQoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0feYfrlNavlqanPZqFDTIw92ho1VEiqVNef1IWHJAWevvCXjnZMlj8o1qRs6A8eq4R8NQ5u6S3wLpJWIxLWWoZRRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=252&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6500&rq=P&rate=188.9600&taxesRate=36.0200&feesRate=27.0600&fees=63.0800&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_67aa9a94a6c5b3568bd3d9e1120e0a77&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=ff83aeed-f1df-455c-b03c-664fc7ecf0b4&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1deb1569f6424e8fa4e4473c0be329100&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=82ea7d98acd34ad9a40aec9b91b90347&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$253",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $188"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "181851",
+      "title": "19. Omni Barton Creek Resort & Spa",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "298",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$442",
+      "strikethroughPrice": null,
+      "priceDetails": null,
+      "priceSummary": "View all 6 deals from $381",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2400,
+            "maxWidth": 3600,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/19/3b/65/fazio-foothills-golf.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2400,
+            "maxWidth": 3600,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/df/7e/omni-barton-creek-resort.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3372,
+            "maxWidth": 4500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/df/65/poolscape.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2400,
+            "maxWidth": 3600,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/02/df/89/infinity-pool.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32443808&geo=181851&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=uverNi9e_5HEM9XuECSHrqveuCPQfbSO6AfHJL3LEr_QRhvdsNADcACJk79a7Xs4HW_49_uMTISeZa0uHqQpDAoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0AOkimPgzAQlBxitVm2-PwTFptEWaeK0oyj27t7jCV17oS00JDb9FC4OclMKY4yeWlEcbqVgkRKMQdgkTelw9mxRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=442&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6200&rq=P&rate=369.0000&taxesRate=24.9900&feesRate=47.5400&fees=72.5300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_1349842b616fad3005bce7dd3ec09ddf&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=6b7616b3-d2b8-464d-8c7d-04c0342a5ae1&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1b621105821163085aa9fede5477b3986&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=7e04bc3532e7456598f3d095fd0fc558&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$442",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 6 deals from $381"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98457",
+      "title": "20. The Line Austin",
+      "primaryInfo": null,
+      "secondaryInfo": "South Austin",
+      "badge": {},
+      "bubbleRating": {
+        "count": "583",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$317",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 7 deals from $253",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1080,
+            "maxWidth": 1920,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/bd/9f/87/the-line-hotel-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1668,
+            "maxWidth": 2500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5a/66/ae/the-line-hotel-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1334,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/5a/66/9d/the-line-hotel-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1280,
+            "maxWidth": 1920,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/13/bd/9b/b9/the-line-hotel-austin.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=129617297&geo=98457&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=7&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1CbFVZRhoUjociWuRmCvaiQoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0NQcBwHmsxQDRQ-pbr7efrXkPBQO5WsSf-DsKdag6n9psva7DsKKKV059gE-KfoeeZQl4hNiRCgjfAS0-EeTeWBRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=316&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=6300&rq=P&rate=239.0000&taxesRate=44.4300&feesRate=32.7600&fees=77.1900&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_4235c9053ffa98c412ba9fe18fd63149&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=b3542d60-fc01-4ee1-8e96-36551560e577&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1a078ee09a886ee6c7c60ed649739f0e6&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=6f6bb6a0cdc64fc2abdae8fdbe0339ea&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$317",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 7 deals from $253"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "252313",
+      "title": "SpringHill Suites Austin Parmer/Tech Ridge",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "232",
+        "rating": 4
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$117",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/a9/c6/queen-suite.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1296,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/d6/21/9e/parmer-lane.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/a9/db/fitness-center.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0a/a9/de/boardroom.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32462952&geo=252313&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzU1s4k-K_flYR51TpfsGOgSq0dkCI_BXDCRmm1VB16R37MYL8q9TnrFbPtNOtHHh8CFcf-93LB1L4FoNlF8if3vxWbDImo836P8htfva0sKo5Xz7Yq7VCivQX_o2cbvyZNYczH3ipfNpg8Tw8_dOg2vao6O52oo3V9lbutv6DAyDAv_tEnI_tvFfmWQ3Bi8FFlM-TAm1KaqrnZl0VCziR27&priceShown=117&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1200&rq=P&rate=99.0000&taxesRate=17.5700&feesRate=0&fees=17.5700&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_79710e53ec9c833c51a1beb9e9a410f6&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=39bdaa34-f025-4a6d-864e-d9652e1d5049&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1064ef4efca6e5fb80a83dfd41cb1dbf1&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=4c05b9677a964628b5e5486de4562568&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$117",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "23425535",
+      "title": "21. Hilton Garden Inn Austin University Capitol District",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "188",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$197",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $165",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 673,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b4/9f/1e/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 629,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b4/9f/48/barlounge.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 683,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b4/9f/4d/property-amenity.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 674,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2b/b4/9f/45/meeting-room.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=208802067&geo=23425535&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPgrmDzhATbmo0TUeBkr_kBgoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0lfDXSXH45gzy-hhKvwfZy-gMnq2ic6u2ccxBeQQmX_LvCXjnZMlj8o1qRs6A8eq4FVpSZdXCLcSouuFSdTx_DhRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=196&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=3100&rq=P&rate=164.0000&taxesRate=32.4900&feesRate=0&fees=32.4900&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_5e81a3e71e4d40e0c870411be3b159e1&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=48725082-9730-4c22-a702-697ddb4ee015&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1c58b33722420eacf8190f0d2290386ec&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=a5dbce6cee1e4dbd8e1541b2af3adc8f&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$197",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $165"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "1189576",
+      "title": "22. AT & T Hotel and Conference Center",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "1,200",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$251",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $145",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 760,
+            "maxWidth": 760,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/7d/a8/cc/standard-king.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1000,
+            "maxWidth": 1500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/44/50/44/hotel-exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 967,
+            "maxWidth": 1500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/44/6f/77/hotel-lobby.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1000,
+            "maxWidth": 1500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/44/50/60/king-room-with-tower.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32437112&geo=1189576&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPVFg_KYm3JJRIwRXGPo6JtAoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0MBSy3ACpHoggEW_bPoUQGq55a0zGTejVzkDHxTPKcKBIXzv4Ol5cFqiUtjcRU1aLqYixXXV85gF1oFCPy8Xi4cgNJb4_57XxSw2PeEh010KxerLHTcqMoksui7uWm_wuxwDZxJUzumxn7hvG_H0vnSL-qlR2VVIusPyj-S87vAs&priceShown=251&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=10600&rq=P&rate=214.1400&taxesRate=36.4100&feesRate=0&fees=36.4100&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_51fd39a605710060e2fed6a897aff71d&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=c8c69f5c-612c-40b8-baf1-b3d01b1d51aa&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=159ed602983d9698889152bd4b84dd44a&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=45ea2803143b4452b6320a6eb2bedf3e&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$251",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $145"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "108975",
+      "title": "23. Orangewood Inn & Suites",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "334",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$88",
+      "strikethroughPrice": "$95",
+      "priceDetails": null,
+      "priceSummary": "View all 4 deals from $88",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1000,
+            "maxWidth": 1500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/61/f6/ba/orangewood-inn-suites.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 900,
+            "maxWidth": 1500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0a/51/4d/orangewood-inn-and-suites.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 900,
+            "maxWidth": 1500,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/09/0a/50/7d/orangewood-inn-and-suites.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/25/ae/46/37/entrance.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=47266099&geo=108975&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=4&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1w5s8odezcP16FHUjnDGN-woct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0XriKSFIxOKYjLYbzwpisCCGES0m4si9pHr8C9QYJmu1IXzv4Ol5cFqiUtjcRU1aLqYixXXV85gF1oFCPy8Xi4cgNJb4_57XxSw2PeEh010KxerLHTcqMoksui7uWm_wuxwDZxJUzumxn7hvG_H0vnSL-qlR2VVIusPyj-S87vAs&priceShown=87&pm=AI&hac=AVAILABLE&mbl=MEET&mbldelta=0&rq=P&rate=70.7100&taxesRate=13.4800&feesRate=3.0000&fees=16.4800&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_5b248c842f95e60f6635fbae74a5be6&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=ed38dec2-48cc-4c32-b568-6e670e108ee1&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1005296d0cef4656743da4892e5e61827&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=3affe06567a34a5ca4cf5daf172040bc&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$88",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": {
+          "text": "$95"
+        },
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 4 deals from $88"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "12553752",
+      "title": "24. Courtyard Austin Northwest/Lakeline",
+      "primaryInfo": null,
+      "secondaryInfo": "Northwest Austin",
+      "badge": {},
+      "bubbleRating": {
+        "count": "31",
+        "rating": 3.5
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$128",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $118",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/16/7f/02/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/16/7f/20/guest-laundry.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/16/7f/1b/pool.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/16/7f/1d/cedar-room-classroom.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=119950569&geo=12553752&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPiSmYJtGJr6w2Z4sDvFtysQoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0DyxJLH8u5qpY4-FPXnNq9zJ6TYfTj1Gj9e8KzivBWfRIXzv4Ol5cFqiUtjcRU1aL6UpP-fhkMqgwu0Ut9SZDOMgNJb4_57XxSw2PeEh010KxerLHTcqMoksui7uWm_wuxwDZxJUzumxn7hvG_H0vnSL-qlR2VVIusPyj-S87vAs&priceShown=128&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1000&rq=P&rate=109.0000&taxesRate=18.5300&feesRate=0&fees=18.5300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_77f8f7fd2f5cc2865f628cf0625bde06&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=8c39cfcc-7496-48bd-9134-203ebd361f32&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1084f61abfcdf2339dd9b36b987927f1b&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=9ff255751c10419d9bc0d2050b97b81b&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$128",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $118"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "259008",
+      "title": "25. Hampton Inn & Suites Austin-Downtown/Convention Center",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "1,455",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$163",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $153",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 723,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/01/6a/52/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3840,
+            "maxWidth": 5760,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/07/06/d9/two-queen-beds.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3840,
+            "maxWidth": 5760,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/06/ff/e9/one-bedroom-king-suite.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3840,
+            "maxWidth": 5760,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/06/f7/72/fitness-center.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32469666&geo=259008&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLPfU-gevZhkiNBC0-fHoJikwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0HUqh6sQdL-AOq9puyNT6nDfdfCfYMhkPhg_2caeDs6hIXzv4Ol5cFqiUtjcRU1aLuANBsK7WbDMFmBaN5h2VQBRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=163&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1100&rq=P&rate=139.0000&taxesRate=23.6300&feesRate=0&fees=23.6300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_789621ab54eff7922cd6699d46be5c2a&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=c0f5473a-d291-404c-88c0-e80b68524ff8&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=15eb6e49542fd7d9980b83c1a424a121a&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=92fbf425725e4d2ba8c7175eb1c7ee35&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$163",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $153"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "25325076",
+      "title": "Fairfield Inn & Suites Austin Downtown",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "5",
+        "rating": 3.5
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$168",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 853,
+            "maxWidth": 1280,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/27/84/a9/hotel-exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/31/c7/3f/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 840,
+            "maxWidth": 1314,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/6e/41/king-suite-guest-room.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 838,
+            "maxWidth": 1311,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/2b/66/fe/breakfast-buffet-area.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=242101137&geo=25325076&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzW96LP2TqHt9PVYwBJ4XVfhq0dkCI_BXDCRmm1VB16R37MYL8q9TnrFbPtNOtHHh8BJkZk87hq8XLGppCAr3Qjl685vvGJaO-ejm9sTrmOqHW42b6WbnXvi6qCWFCISlqwBHyMqE8lMpMEYrvy5BwfwZaJqKKX19fmhCy537u99_gv_tEnI_tvFfmWQ3Bi8FFlM-TAm1KaqrnZl0VCziR27&priceShown=168&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=200&rq=P&rate=141.5000&taxesRate=26.2200&feesRate=0&fees=26.2200&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_5e54fdae393e608da86c6c8bde2d59bd&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=0102eefd-d8b4-4b86-ac5d-431cfe4eab58&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=10f88748faa5bd03efd303ef2a3e9c5b0&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=5b3e08fbc63a42bb9680df343c24da4f&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$168",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "19120586",
+      "title": "26. The Otis Hotel Austin, Autograph Collection",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "209",
+        "rating": 4.5
+      },
+      "isSponsored": false,
+      "accentedLabel": "16% LESS THAN USUAL",
+      "provider": "Vio.com",
+      "priceForDisplay": "$241",
+      "strikethroughPrice": "$295",
+      "priceDetails": null,
+      "priceSummary": "View all 6 deals from $241",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/16/f5/61/the-otis-hotel.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1856,
+            "maxWidth": 2784,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/58/09/18/the-otis-hotel-autograph.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2250,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/cb/be/2b/the-otis-hotel-autograph.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3829,
+            "maxWidth": 5743,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f1/bd/77/the-otis-hotel-autograph.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=Vio&src=240836884&geo=19120586&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=47458&bucket=997778&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=vI752oFa_1V926S4M6jgXs71l9qdZoZNLa0Lq6tZwYGlwhNDsh7h0ZBtzOwDo53JvVspJIXHUF5jH1ON04aiXVrkyD1FmlefnUjgTJSUSZCVICxA8gHDX2VHsLl3hyKiTusiKYUQfP0JYReZSPF3VuNBywunLMSH1lAjd7GfmtAsXXGYdh15lHPdfcmkcau94TFa4qqeldXMExsQNgzVtkgg75NNWVSESrO-0nzH_n4uN9mHzdw_piOqOlPpYu6W2ZxeckrTn6W7egrdTrbFo-nqqE0mzwJHwV5T0-dGv0ScfIyU9ZsQvjr5maYZ5L0A&priceShown=240&pm=AI&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=206.2200&taxesRate=34.2200&feesRate=0&fees=34.2200&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_2f3bedc6473098753bcf8a8805f28bb8&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=adc61b38-8f8f-4488-8653-7b595f7615de&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=10d07376f3f2584113981c8882badd672&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=ad030a9dbec74a15a8bcc7de2628328d&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Vio.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$241",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": {
+          "text": "$295"
+        },
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 6 deals from $241"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "8629421",
+      "title": "27. Holiday Inn Express & Suites Austin Downtown - University, an IHG Hotel",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "380",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$175",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 6 deals from $158",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4080,
+            "maxWidth": 6120,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/ad/4f/62/welcome-to-the-holiday.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2000,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1f/39/31/skyline-pool-deck-and.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2077,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1f/38/92/skyline-pool-deck-and.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2000,
+            "maxWidth": 3000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1b/1f/37/83/skyline-pool-deck-and.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=75165804&geo=8629421&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=6&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js1Lg_DG24t9C2XNEhyLgrOrwoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0eBDulZTcMYPiNHXtbuV_o25d4sHAR2x7yIlAvZnmDNOsbg-kKKV4Pibc2wXPs6CLnkfyX-u8n8QETVmquqIOiRRTr1rETcduGlHn0aDXoKEqoIFzXWxPRFAC6ISYdc1s8a4vWz3USnegb5BPf_ITheQZSfB2ad6-FwfnVw7uFqU&priceShown=174&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1600&rq=P&rate=149.0000&taxesRate=25.3300&feesRate=0&fees=25.3300&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_5426136c682fb3c0fe1117c507b7be1f&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=dd285390-f49c-49e7-a7ba-f127454fa55e&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1b85f13a1048ce2d4b4dfd373fbcc0c0f&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=0a7689723f424cfc8084ab562030fd3a&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$175",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 6 deals from $158"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "111397",
+      "title": "28. Hilton Garden Inn Austin Downtown/Convention Center",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "1,895",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$176",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $159",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 768,
+            "maxWidth": 1024,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/f2/55/84/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 3717,
+            "maxWidth": 6985,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/68/ac/1f/lobby.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1173,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e8/9b/3b/18th-over-austin.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1182,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/e8/9c/86/18th-over-austin.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32469667&geo=111397&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=qnqAfRGykr0_QY7dCmLmSKveuCPQfbSO6AfHJL3LEr8iCbvvBS9lJKhut5XEhCLP_iw6UHguS8llhc8ol5Ub3Qoct_lYicgwbh4j1RxLssP3x_t8j3CW6zgUMff2rub0BLZusL0SFVLqBzw40ntprSRaaW9ahN1IqzPJxHvUdJesbg-kKKV4Pibc2wXPs6CL_EKcN3PrqK8hbuERijwEdY1845HWf8Od19N1zxK0KmYKqvxlm20WakpZ_8epEUjfL3iBBPyGHiChce8SLcNrI5bBP7rUdj30W45SiWD9qNk&priceShown=176&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1700&rq=P&rate=149.0000&taxesRate=26.7500&feesRate=0&fees=26.7500&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_36935449948896badd0e95c9bc078d89&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=978b230e-3dc9-453d-ae02-7aab2f531d03&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=11b54a3c1bd8981568c947214ba03fec8&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=834b51c884444a68aaf25a5daec088a1&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$176",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $159"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98420",
+      "title": "29. Embassy Suites by Hilton Austin Downtown South Congress",
+      "primaryInfo": "Free breakfast available",
+      "secondaryInfo": "South Austin",
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "1,951",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Vio.com",
+      "priceForDisplay": "$186",
+      "strikethroughPrice": "$325",
+      "priceDetails": null,
+      "priceSummary": "View all 4 deals from $186",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 682,
+            "maxWidth": 1023,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2a/b0/30/ec/exterior.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1333,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/e0/0d/a4/town-lake.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4682,
+            "maxWidth": 7015,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/ee/8c/13/soco-bar-bites-provides.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 4790,
+            "maxWidth": 7177,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1f/ee/8a/b0/the-newly-renovated-pool.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=Vio&src=240840712&geo=98420&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=4&silo=47458&bucket=997778&nrank=2&crank=2&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=pgQL5ilxkbspVb5DXnmhFrAp8xTdZkWb7fKomqEjV4c5KAU84SUyRvSh4aIfUmNdlGPtUdlYV7_Pk287yZGfIZVtaN9lh-vPgp9jqErZK2ErHv-t3XrHgBJd6dtehhCZyTTF9oYnU1WhTIFd_erIKvlxZNshrpQwXXoyXuope4gRVnSnGmYlughmxC662LlUC_SlldQqeJE8P9mK7W72cIOmM_7oF8eUPNYalfjphWouzFjQM7jVNeX2AFG-rdlTJNaF8E8tvIGykKNhARJmJR9u785_AlWTKOXkVVhcBEvvY97_lxPuK8R-vL1sSBmF&priceShown=185&pm=AI&hac=AVAILABLE&mbl=BEAT&mbldelta=0&rq=P&rate=160.4400&taxesRate=24.7400&feesRate=0&fees=24.7400&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_6bedd8040ad430c75ff6347a37c21b5b&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=fe1d514d-52ee-4bf3-be81-428c2eb758c3&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=18d620188d42fa53e74bd2a758d7065b8&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=76d28770165a4c4d9a4dfb5c656c8ccf&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Vio.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$186",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": {
+          "text": "$325"
+        },
+        "pricingPeriod": null,
+        "details": null,
+        "commerceSummary": {
+          "text": "View all 4 deals from $186"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "98433",
+      "title": "30. DoubleTree by Hilton Hotel Austin Northwest Arboretum",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {},
+      "bubbleRating": {
+        "count": "851",
+        "rating": 4
+      },
+      "isSponsored": false,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$117",
+      "strikethroughPrice": null,
+      "priceDetails": "Reserve now, pay at stay",
+      "priceSummary": "View all 5 deals from $98",
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 380,
+            "maxWidth": 677,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ae/3a/e9/doubletree-by-hilton.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 380,
+            "maxWidth": 677,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ae/3b/00/doubletree-by-hilton.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 1181,
+            "maxWidth": 2000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ae/3a/dc/doubletree-by-hilton.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 380,
+            "maxWidth": 677,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/08/ae/3b/1e/doubletree-by-hilton.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=32481406&geo=98433&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=5&silo=10476&bucket=902999&nrank=1&crank=1&clt=M&ttype=MobileCR&tm=305490539&managed=false&capped=false&gosox=FUp-mHG9QCtgu554RY1wrKveuCPQfbSO6AfHJL3LEr-30hyy9FuMIuuCEkml1Js14tstc4GsPwYIdDV4bUsLEKtHZAiPwVwwkZptVQdekd-zGC_KvU56xWz7TTrRx4fAnvoyfMsg2pGRiEWsrFMeKxhcB9rmjJ7U9xqF4SeVc-PAk17MipVuSWhpBHglhAcxEt4gmek9A51u0xl-IhzsDcgNJb4_57XxSw2PeEh010KxerLHTcqMoksui7uWm_wuxwDZxJUzumxn7hvG_H0vnSL-qlR2VVIusPyj-S87vAs&priceShown=116&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=1900&rq=P&rate=99.0000&taxesRate=17.3500&feesRate=0&fees=17.3500&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_313f01c3f8f172d54a1760e711c526c4&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=ec1f107d-13a9-4a01-b946-447420ab1270&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=121104e7406c61b632735211ee6015c8c&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=6468b4448acd47168ff728624df625e8&tp=APS-Hotels&pageLocId=30196",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$117",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Reserve now, pay at stay"
+        },
+        "commerceSummary": {
+          "text": "View all 5 deals from $98"
+        },
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    },
+    {
+      "id": "19414528",
+      "title": "Austin Marriott Downtown",
+      "primaryInfo": null,
+      "secondaryInfo": null,
+      "badge": {
+        "size": "SMALL",
+        "type": "TRAVELLER_CHOICE",
+        "year": "2024"
+      },
+      "bubbleRating": {
+        "count": "793",
+        "rating": 5
+      },
+      "isSponsored": true,
+      "accentedLabel": false,
+      "provider": "Booking.com",
+      "priceForDisplay": "$299",
+      "strikethroughPrice": null,
+      "priceDetails": "Free cancellation • Reserve now, pay at stay",
+      "priceSummary": null,
+      "cardPhotos": [
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/be/rooftop-pool.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/c5/hospitality-suite-bedroom.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/c8/presidential-suite-master.jpg?w={width}&h={height}&s=1"
+          }
+        },
+        {
+          "__typename": "AppPresentation_PhotoItem",
+          "sizes": {
+            "__typename": "AppPresentation_PhotoItemSizeDynamic",
+            "maxHeight": 2667,
+            "maxWidth": 4000,
+            "urlTemplate": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2d/44/16/c9/suite-view.jpg?w={width}&h={height}&s=1"
+          }
+        }
+      ],
+      "commerceInfo": {
+        "externalUrl": "https://www.tripadvisor.in/Commerce?p=BookingCom&src=178015671&geo=19414528&from=HotelDateSearch_Hotels&slot=1&matchID=1&oos=0&cnt=1&silo=47212&bucket=995258&nrank=1&crank=1&clt=SLMM&ttype=SponsoredMobileMeta&tm=305490541&managed=false&capped=false&gosox=oClUjGVneRW66uy-AWu9E7fSHLL0W4wi64ISSaXUmzWTTc-noUM0CiVC7raDl_3pChy3-ViJyDBuHiPVHEuyw_fH-3yPcJbrOBQx9_au5vRyEuX0gy8PP1IFliXpjDAdAyaFvCe3JklXrvjpL18fJs7XXhBTvj7yCUPTiYu_jVWGz1lfioW7cR1oNcpkU7jekwjrGchtk4RurQ07KBHtWSqggXNdbE9EUALohJh1zWzxri9bPdRKd6BvkE9_8hOF5BlJ8HZp3r4XB-dXDu4WpQ&priceShown=299&pm=AI&hac=AVAILABLE&mbl=LOSE&mbldelta=3100&rq=P&rate=229.0000&taxesRate=44.8200&feesRate=25.0000&fees=69.8200&cur=USD&adults=1&child_rm_ages=&inDay=6&outDay=8&rdex=RDEX_1b7c50feb82b1b0d2c4c093380408850&rooms=1&inMonth=9&inYear=2024&outMonth=9&outYear=2024&auid=6976d42d-000f-458f-945e-dbb460b6502a&def_d=true&bld=L_2,D_1,G_1,W_5,U_1,C_240906,T_1&bh=true&cs=1ab1b474dc967c677a88be43431f4c011&ik=d4227858a00f4f09b22f3fdd4032f1df&aok=e26a477c67a448d6bd5be956d1e89d09&tp=APS-Hotels&pageLocId=30196&area=Spons%7CSpons_Meta_Pref",
+        "provider": "Booking.com",
+        "loadingMessage": null,
+        "priceForDisplay": {
+          "text": "$299",
+          "debugValueKey": null
+        },
+        "strikethroughPrice": null,
+        "pricingPeriod": null,
+        "details": {
+          "text": "Free cancellation • Reserve now, pay at stay"
+        },
+        "commerceSummary": null,
+        "roomUrgencyMessage": null,
+        "labels": []
+      }
+    }
+  ]
+}

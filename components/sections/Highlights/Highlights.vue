@@ -11,9 +11,10 @@ const tabs = [
 ]
 
 const activeKey = ref(tabs[0].key) // Default to the first tab
-
+const title = ref(tabs[0].title)
 const setActiveKey = key => {
   activeKey.value = key
+  title.value = tabs.find(tab => tab.key === key).title
 }
 </script>
 
@@ -34,10 +35,7 @@ const setActiveKey = key => {
       <div
         class="bg-gradient-to-b from-primary to-tertiary text-medium text-gray-500 rounded-lg w-full p-4 md:p-6"
       >
-        <HighlightsMain
-          :active-key="activeKey"
-          :title="tabs[activeKey].title"
-        />
+        <HighlightsMain :active-key="activeKey" :title="title" />
       </div>
     </div>
   </section>

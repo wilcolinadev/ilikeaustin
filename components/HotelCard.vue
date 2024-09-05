@@ -43,7 +43,7 @@ export default {
           {{ hotel.secondaryInfo || 'No Information Available' }}
         </p>
         <span class="text-3xl font-bold text-gray-900">
-          {{ hotel.priceForDisplay || 'N/A' }}
+          From {{ hotel.priceForDisplay || 'N/A' }}
         </span>
         <StarRating :rating="hotel.bubbleRating?.rating || 0" />
         <div class="flex items-center mb-3 mt-2 gap-2">

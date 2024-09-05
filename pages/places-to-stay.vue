@@ -1,7 +1,7 @@
 <script setup>
 import HotelCard from '../components/HotelCard.vue'
 import LevelOne from '../components/sections/LevelOne.vue'
-
+import hotels from '../hotels.json'
 useHead({
   titleTemplate: titleChunk => {
     return titleChunk ? ` Places to Stay - ${titleChunk}` : 'Places to Stay'
@@ -16,7 +16,8 @@ const descriptions = [
 ]
 
 // Fetching the data using useFetch, which returns data, error, and pending
-const { data: hotels, error, status } = await useFetch('/api/hotels')
+// const { data: hotels, error, status } = await useFetch('/api/hotels')
+console.log(hotels)
 </script>
 
 <template>
@@ -35,14 +36,10 @@ const { data: hotels, error, status } = await useFetch('/api/hotels')
       <div v-if="error" class="text-red-500">{{ error.message }}</div>
 
       <div
-        v-else-if="hotels && hotels.data && hotels.data.data"
+        v-else-if="hotels.data"
         class="grid grid-cols-1 md:grid-cols-2 gap-6"
       >
-        <HotelCard
-          v-for="item in hotels.data.data"
-          :key="item.name"
-          :hotel="item"
-        />
+        <HotelCard v-for="item in hotels.data" :key="item.name" :hotel="item" />
       </div>
     </div>
   </div>
